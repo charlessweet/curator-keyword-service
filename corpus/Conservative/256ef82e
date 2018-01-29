@@ -1,0 +1,310 @@
+Error: Abstract method should be implemented in subclass
+
+  https://w.soundcloud.com/player/widget-0318292b.js:7 in r
+  https://w.soundcloud.com/player/widget-0318292b.js:7 in isPlaying
+  https://w.soundcloud.com/player/single-sound-1671fc20.js:7 in s
+  https://w.soundcloud.com/player/single-sound-1671fc20.js:7 in renderDecorate
+  https://w.soundcloud.com/player/widget-0318292b.js:6
+  https://w.soundcloud.com/player/widget-0318292b.js:16 in render
+  https://w.soundcloud.com/player/widget-0318292b.js:6
+  https://w.soundcloud.com/player/widget-0318292b.js:17
+  :0
+  https://w.soundcloud.com/player/widget-0318292b.js:2 in c
+  https://w.soundcloud.com/player/widget-0318292b.js:2 in add
+  https://w.soundcloud.com/player/widget-0318292b.js:17 in apply
+  https://w.soundcloud.com/player/widget-0318292b.js:17
+  https://w.soundcloud.com/player/widget-0318292b.js:6
+  :0
+  https://w.soundcloud.com/player/widget-0318292b.js:6
+  https://w.soundcloud.com/player/widget-0318292b.js:4 in any
+  https://w.soundcloud.com/player/widget-0318292b.js:6 in loadUrl
+  https://w.soundcloud.com/player/widget-0318292b.js:6 in start
+  https://w.soundcloud.com/player/widget-0318292b.js:5
+  https://w.soundcloud.com/player/widget-0318292b.js:2 in c
+  https://w.soundcloud.com/player/widget-0318292b.js:2 in add
+  https://w.soundcloud.com/player/widget-0318292b.js:2 in always
+  https://w.soundcloud.com/player/widget-0318292b.js:5 in r
+  https://w.soundcloud.com/player/widget-0318292b.js:5 in start
+  https://w.soundcloud.com/player/widget-0318292b.js:1
+  https://w.soundcloud.com/player/widget-0318292b.js:2 in c
+  https://w.soundcloud.com/player/widget-0318292b.js:2 in fireWith
+  https://w.soundcloud.com/player/widget-0318292b.js:2 in ready
+  https://w.soundcloud.com/player/widget-0318292b.js:1 in c
+Error: Abstract method should be implemented in subclass
+
+  https://w.soundcloud.com/player/widget-0318292b.js:7 in r
+  https://w.soundcloud.com/player/widget-0318292b.js:7 in isPlaying
+  https://w.soundcloud.com/player/single-sound-1671fc20.js:7 in s
+  https://w.soundcloud.com/player/single-sound-1671fc20.js:7 in renderDecorate
+  https://w.soundcloud.com/player/widget-0318292b.js:6
+  https://w.soundcloud.com/player/widget-0318292b.js:16 in render
+  https://w.soundcloud.com/player/widget-0318292b.js:6
+  https://w.soundcloud.com/player/widget-0318292b.js:17
+  :0
+  https://w.soundcloud.com/player/widget-0318292b.js:2 in c
+  https://w.soundcloud.com/player/widget-0318292b.js:2 in add
+  https://w.soundcloud.com/player/widget-0318292b.js:17 in apply
+  https://w.soundcloud.com/player/widget-0318292b.js:17
+  https://w.soundcloud.com/player/widget-0318292b.js:6
+  :0
+  https://w.soundcloud.com/player/widget-0318292b.js:6
+  https://w.soundcloud.com/player/widget-0318292b.js:4 in any
+  https://w.soundcloud.com/player/widget-0318292b.js:6 in loadUrl
+  https://w.soundcloud.com/player/widget-0318292b.js:6 in start
+  https://w.soundcloud.com/player/widget-0318292b.js:5
+  https://w.soundcloud.com/player/widget-0318292b.js:2 in c
+  https://w.soundcloud.com/player/widget-0318292b.js:2 in add
+  https://w.soundcloud.com/player/widget-0318292b.js:2 in always
+  https://w.soundcloud.com/player/widget-0318292b.js:5 in r
+  https://w.soundcloud.com/player/widget-0318292b.js:5 in start
+  https://w.soundcloud.com/player/widget-0318292b.js:1
+  https://w.soundcloud.com/player/widget-0318292b.js:2 in c
+  https://w.soundcloud.com/player/widget-0318292b.js:2 in fireWith
+  https://w.soundcloud.com/player/widget-0318292b.js:2 in ready
+  https://w.soundcloud.com/player/widget-0318292b.js:1 in c
+Error: Abstract method should be implemented in subclass
+
+  https://w.soundcloud.com/player/widget-0318292b.js:7 in r
+  https://w.soundcloud.com/player/single-sound-1671fc20.js:5 in l
+  https://w.soundcloud.com/player/single-sound-1671fc20.js:5 in renderDecorate
+  https://w.soundcloud.com/player/widget-0318292b.js:16 in render
+  https://w.soundcloud.com/player/widget-0318292b.js:16 in r
+  https://w.soundcloud.com/player/widget-0318292b.js:16
+  https://w.soundcloud.com/player/widget-0318292b.js:1 in each
+  https://w.soundcloud.com/player/widget-0318292b.js:1 in each
+  https://w.soundcloud.com/player/widget-0318292b.js:16 in replacePlaceholders
+  https://w.soundcloud.com/player/widget-0318292b.js:16 in subviews
+  https://w.soundcloud.com/player/widget-0318292b.js:16 in render
+  https://w.soundcloud.com/player/widget-0318292b.js:16 in r
+  https://w.soundcloud.com/player/widget-0318292b.js:16
+  https://w.soundcloud.com/player/widget-0318292b.js:1 in each
+  https://w.soundcloud.com/player/widget-0318292b.js:1 in each
+  https://w.soundcloud.com/player/widget-0318292b.js:16 in replacePlaceholders
+  https://w.soundcloud.com/player/widget-0318292b.js:16 in subviews
+  https://w.soundcloud.com/player/widget-0318292b.js:16 in render
+  https://w.soundcloud.com/player/single-sound-1671fc20.js:1 in i
+  https://w.soundcloud.com/player/single-sound-1671fc20.js:3 in s
+  https://w.soundcloud.com/player/widget-0318292b.js:5 in trigger
+  https://w.soundcloud.com/player/widget-0318292b.js:7 in setCursor
+  https://w.soundcloud.com/player/single-sound-1671fc20.js:7 in o
+  :0 in o
+  https://w.soundcloud.com/player/widget-0318292b.js:2 in c
+  https://w.soundcloud.com/player/widget-0318292b.js:2 in fireWith
+  https://w.soundcloud.com/player/widget-0318292b.js:3 in n
+  https://w.soundcloud.com/player/widget-0318292b.js:3
+Error: Abstract method should be implemented in subclass
+
+  https://w.soundcloud.com/player/widget-0318292b.js:7 in r
+  https://w.soundcloud.com/player/single-sound-1671fc20.js:5 in l
+  https://w.soundcloud.com/player/single-sound-1671fc20.js:5 in renderDecorate
+  https://w.soundcloud.com/player/widget-0318292b.js:16 in render
+  https://w.soundcloud.com/player/widget-0318292b.js:16 in r
+  https://w.soundcloud.com/player/widget-0318292b.js:16
+  https://w.soundcloud.com/player/widget-0318292b.js:1 in each
+  https://w.soundcloud.com/player/widget-0318292b.js:1 in each
+  https://w.soundcloud.com/player/widget-0318292b.js:16 in replacePlaceholders
+  https://w.soundcloud.com/player/widget-0318292b.js:16 in subviews
+  https://w.soundcloud.com/player/widget-0318292b.js:16 in render
+  https://w.soundcloud.com/player/widget-0318292b.js:16 in r
+  https://w.soundcloud.com/player/widget-0318292b.js:16
+  https://w.soundcloud.com/player/widget-0318292b.js:1 in each
+  https://w.soundcloud.com/player/widget-0318292b.js:1 in each
+  https://w.soundcloud.com/player/widget-0318292b.js:16 in replacePlaceholders
+  https://w.soundcloud.com/player/widget-0318292b.js:16 in subviews
+  https://w.soundcloud.com/player/widget-0318292b.js:16 in render
+  https://w.soundcloud.com/player/single-sound-1671fc20.js:1 in i
+  https://w.soundcloud.com/player/single-sound-1671fc20.js:3 in s
+  https://w.soundcloud.com/player/widget-0318292b.js:5 in trigger
+  https://w.soundcloud.com/player/widget-0318292b.js:7 in setCursor
+  https://w.soundcloud.com/player/single-sound-1671fc20.js:7 in o
+  :0 in o
+  https://w.soundcloud.com/player/widget-0318292b.js:2 in c
+  https://w.soundcloud.com/player/widget-0318292b.js:2 in fireWith
+  https://w.soundcloud.com/player/widget-0318292b.js:3 in n
+  https://w.soundcloud.com/player/widget-0318292b.js:3
+[object Object]
+
+  https://www.conservativereview.com/assets/js/vendor/postscribe.min.js?bust=636177690073664500:10 in error
+  https://www.conservativereview.com/assets/js/vendor/postscribe.min.js?bust=636177690073664500:10 in o
+  https://www.conservativereview.com/assets/js/vendor/postscribe.min.js?bust=636177690073664500:10 in onerror
+[object Object]
+
+  https://www.conservativereview.com/assets/js/vendor/postscribe.min.js?bust=636177690073664500:10 in error
+  https://www.conservativereview.com/assets/js/vendor/postscribe.min.js?bust=636177690073664500:10 in onerror
+
+Share
+
+797
+ 
+15
+WHY WE SHOULD WELCOME TRUMP'S CONTINUED SCUFFLE WITH THE JUDICIARY
+By: Nate Madden | February 10, 2017
+Africa Studio | Shutterstock
+Share  
+ 
+ 
+ 
+Font Size  A  A  A
+The current battle between President Donald Trump and the courts is far from unprecedented; in fact, it’s just what this country needs.
+
+Over the past week, Trump has taken a great deal of flak from all sides for reprimanding (in his own, coarse way) federal judges who have blocked his immigration order, despite the fact that presidents have taken similar actions in the past, with no constitutional injunctions whatsoever.
+
+Now, according to the media and pundit classes, we have apparently found ourselves in a full-blown Constitutional Crisis™ — one where America will find itself marching off toward the precipice of authoritarianism (because of a few mean words between government officials).
+
+
+In reality, to borrow from Shakespeare, we once again find ourselves in the midst of great deal of sound and a grand deal of fury, signifying nothing.
+
+But, following Thursday night’s absurd ruling from the Ninth Circuit — though they rarely put out anything else — it doesn’t look like it’s going to end any time soon.
+
+
+Good.
+
+Here’s a secret: Trump’s far from the first president to go toe-to-toe with the federal courts. In fact, President Obama’s rebuke of the Supreme Court in the 2010 State of the Union address regarding the Citizens United case was significantly more bold and telling.
+
+Another popular argument against Trump is that previous presidents were merely going after the judges’ reasoning, rather than the integrity of the judges themselves. This does little more than make the case that Trump showed bad manners and poor tact. True as it may be, nobody should find it surprising at this point.
+
+
+But to prove this isn’t just a simple “tu quoque” to the previous administration — as many arguments seem to be these days — the executive branch actually has a long history of speaking ill of the black robes and judiciary.
+
+There is, of course, the famous and apocryphal aphorism from President Jackson: “John Marshall has made his decision, now let him enforce it.”
+
+And how can we forget Abe Lincoln’s iconic first inaugural address, where he points out the Taney court’s egregious error in the Dred Scott decision: [emphasis added]
+
+“At the same time, the candid citizen must confess that if the policy of the Government upon vital questions affecting the whole people is to be irrevocably fixed by decisions of the Supreme Court, the instant they are made in ordinary litigation between parties in personal actions the people will have ceased to be their own rulers, having to that extent practically resigned their Government into the hands of that eminent tribunal."
+Even further back in our history, you run into President Jefferson’s long-term struggle with the federal judiciary, including the following gems: [emphasis added]
+
+"The Constitution... meant that its coordinate branches should be checks on each other. But the opinion which gives to the judges the right to decide what laws are constitutional and what not, not only for themselves in their own sphere of action but for the Legislature and Executive also in their spheres, would make the Judiciary a despotic branch." – Thomas Jefferson to Abigail Adams, 1804
+"To consider the judges as the ultimate arbiters of all constitutional questions [is] a very dangerous doctrine indeed, and one which would place us under the despotism of an oligarchy.” – Letter to William Jarvis, 1820
+"This member of the Government was at first considered as the most harmless and helpless of all its organs. But it has proved that the power of declaring what the law is, ad libitum, by sapping and mining slyly and without alarm the foundations of the Constitution, can do what open force would not dare to attempt." – Letter to Edward Livingston, 1825
+Still, we hear the cries that Trump’s latest actions somehow violate the principle of an “independent” judiciary. Yes, the lifetime appointment was meant to keep the justices independent of politics, but what else are they supposed to be independent from? The Supreme Court’s jurisdiction and size are set by Congress, and enforcement relies on the executive branch.
+
+To wish for a class of fallible human beings to be exempt from criticism — and accusing their detractors of political blasphemy — brings a whole new meaning to the term “judicial supremacy.”
+
+
+Do we really want to elevate a de facto oligarchy into a noble class beyond reproach? Why not just buy a few crowns and coronate them while we’re at it … since the oligarchs cannot err?
+
+
+It’s far more than normal; in fact, it’s necessary. Trump’s current judicial scuffle has been a long time coming and gets to the heart of the greatest threat to America’s sovereignty. It is NOT, however, anything close to the constitutional crisis the hysteria factory wants to make it.
+
+This country was founded on the principle of government by consent of the governed. Any effort by an elected official to properly restore that principle is a welcome endeavor and change.
+
+SHARE
+TWEET
+EMAIL
+Nate Madden is a Staff Writer for Conservative Review, focusing on religious freedom, jihadism, and the judiciary. He previously served as the Director of Policy Relations for the 21st Century Wilberforce Initiative. A Publius Fellow, John Jay Fellow, Citadel Parliamentary Fellow and National Journalism Center alumnus, Nate’s writing has previously appeared in several religious and news publications. Follow him@NateMaddenCR and on Facebook. 
+
+Author Nate Madden  NateMadden_IV
+Share  
+ 
+ 
+ 
+ COMMENTS
+NEWSLETTER SIGNUP
+Sign up for vote alerts and commentary from Conservative Review with our weekly newsletter!
+
+ 
+RECENT  TRENDING
+ Happy Birthday, President Lincoln! 16 pro-Constitution, liberty-loving...
+By: Nate Madden | 02/12/2017
+  Bibi comes to Washington: A new era in US-Israel relations
+By: Jordan Schachtel | 02/12/2017
+  Fight on, conservatives! Why you cannot afford to disengage from the c...
+By: Carly Hoilman | 02/12/2017
+  Why rebooting shows like 'The Honeymooners' won't work in today's PC c...
+By: Jay Caruso | 02/12/2017
+  What I saw at an NYU speech proves good policing can prevent UC Berkel...
+By: Spyridon Mitsotakis | 02/12/2017
+TWEETS
+
+
+Conservative Review
+@CR
+🎵�Together again. Gee, it's good to be together again.🎵� https://t.co/GQbAp21Bz9
+  58 Minutes ago
+FOLLOW
+
+Conservative Review
+@CR
+"They wanted to recreate the chaos and destruction of Berkeley. And they failed." https://t.co/RivtvzQLm8
+  28 Minutes ago
+FOLLOW
+
+Conservative Review
+@CR
+Why? Just ... why? https://t.co/KzURrMiXIc
+  58 Minutes ago
+FOLLOW
+
+Conservative Review
+@CR
+🎵�Together again. Gee, it's good to be together again.🎵� https://t.co/GQbAp21Bz9
+  58 Minutes ago
+FOLLOW
+
+Conservative Review
+@CR
+"They wanted to recreate the chaos and destruction of Berkeley. And they failed." https://t.co/RivtvzQLm8
+  28 Minutes ago
+FOLLOW
+123
+RECENT POSTS
+
+
+Happy Birthday, President Lincoln! 16 pro-Constitution, liberty-loving quotes from our 16th president
+Nate Madden | 02/12/2017
+A brief sampling of the wit and wisdom of one of America’s greatest statesmen.
+TAGS: Civil LibertiesElectionsEducationMoral IssuesCultureJudiciary
+
+Want to drain the swamp? This Congressman has a plan to move the bureaucracy out of DC
+Nate Madden | 02/10/2017
+Rep. Warren Davidson explains the Drain the Swamp Act of 2017
+TAGS: Budget Spending DebtElectionsFree MarketTrump
+
+Levin: Judges SHOULD be called out, particularly when ‘they’re using the law to kill the law!'
+Nate Madden | 02/08/2017
+Does putting on a black robe make you impervious to criticism?
+TAGS: Civil LibertiesElectionsForeign Policy and DefenseImmigrationFaithISISTerrorism
+
+Democrats' warped view of Islam is the reason our national security debate is so screwed up
+Nate Madden | 02/08/2017
+Not all religions are created equal.
+TAGS: Civil LibertiesMoral IssuesForeign Policy and DefenseReligious LibertyISISTerrorism
+
+Senators Cotton and Perdue's new bill takes a bolt cutter to endless chain migration
+Nate Madden | 02/07/2017
+America needs a stronger economy – not "chain migration."
+TAGS: ElectionsImmigrationFree MarketTaxes Economy and TradeTrumpEconomy
+
+Hours before DeVos’ confirmation, Rep. Massie dropped a bill to get rid of her job forever
+Nate Madden | 02/07/2017
+Here’s how to make public education great (and local) again.
+TAGS: Civil LibertiesElectionsEducationTrumpCommon Core
+
+California Republic no more: The constitutional case against #Calexit
+Nate Madden | 02/05/2017
+They know we fought a war over this, right?
+TAGS: Moral IssuesCivil LibertiesElectionsJudiciaryCulture
+
+Will Trump defy pressure to betray promises on religious liberty?
+Daniel Horowitz, Nate Madden | 02/03/2017
+Trump MUST stay true to his base and keep the promises to social conservative that got him elected.
+TAGS: Civil LibertiesMoral IssuesMarriageReligious LibertyElections
+
+Were the Berkeley riots justified protests or domestic terrorism? – Capitol Fight Club Ep31
+Nate Madden | 02/03/2017
+After a two-month hiatus, Capitol Fight Club is back with a new lineup for the Trump administration. On the agenda: political riots, SCOTUS, and the so-called “Muslim ban.”
+TAGS: Civil LibertiesForeign Policy and DefenseMoral Issues2016 POTUSCultureFree SpeechJudiciaryTerrorismTrump
+
+Why Trump’s draft EO on religious liberty is bold, solid, and just what America needs
+Nate Madden | 02/02/2017
+If you want to coexist, this is a good place to start doing it.
+TAGS: ElectionsCivil LibertiesMoral IssuesFaithCultureReligious LibertyTrump
+ About Us FAQ Contact Us Terms Privacy Policy Press Shop
+SUBSCRIBE TO OUR NEWSLETTERS
+Stay up to date with our Weekly Newsletter
+
+
+© 2016 CRTV LLC, All Rights ReservedSite by Lightmaker
+ 
+ 
+ShareThis Copy and Paste`Why we should welcome Trump's continued scuffle with the judiciary

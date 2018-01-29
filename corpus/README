@@ -1,0 +1,65 @@
+Unsupervised Text Analysis to Detect Political Bias in News Articles
+
+ABSTRACT
+In todays political climate in America, even the world, there are deep divisions between political parties, as
+more and more people seem to be aligning more severely to extreme ideologies.  This has become apparent in the 
+conversations made across party lines.  "Normal" news sources, derivatively called "Mainstream Media", has been 
+accused of excessive bias to the left (less truthful), while some newer news sources have sprung up which claim
+to be less biased (and more truthful).  To detect and quantify bias in news articles, we create an index called
+Bias Lean Index (BLI), which uses *self-labeling* by different media organizations and blogs to train a neural 
+network for the detection of bias on a scale of 0 (not biased) to 1 (clearly biased).
+
+METHOD
+500 articles
+	label articles 'liberal' or 'conservative'
+	(5) conservative and (5)liberal self-identifying news organizations
+	50 articles from each
+	organizations
+		conservative
+			(50) http://michellemalkin.com
+			(50) https://www.conservativereview.com/
+			(50) http://www.nationalreview.com
+			(50) http://townhall.com
+			(replaced - radio show)https://www.rushlimbaugh.com/
+			(50) http://www.redstate.com/
+		liberal
+			(50) http://www.dailykos.com
+			(50) https://thinkprogress.org/
+			(50) http://front.moveon.org/blog
+			(50) https://www.thenation.com
+			(50) https://mediamatters.org
+			
+x Initial 'bias score' using ratio of biased to unbiased words
+x Import into corpus
+x Sentiment detection to assess overall tone of article
+x Subject detection to assess subject(s) of article
+  Corpus method to extract tags for an article by its fileid.
+Build and train neural network to determine:
+	1.  Classification (liberal versus conservative news article).  Precision and Recall.
+	2.  Gradient scale 0-1 of political bias.
+
+Attributes
+Subject[0..N] (POS tagging, frequency of subject)
+https://medium.com/@acrosson/extract-subject-matter-of-documents-using-nlp-e284c1c61824#.jmm7cxw79
+
+Sentiment (vader)
+http://www.nltk.org/_modules/nltk/sentiment/vader.html
+http://comp.social.gatech.edu/papers/icwsm14.vader.hutto.pdf
+
+Bias Score (from biaschecker.org)
+http://www.biaschecker.org
+
+Future Work:
+http://www.sourcewatch.org/index.php/Conservative_news_outlets
+http://www.sourcewatch.org/index.php/Liberal_news_outlets
+
+
+laughing.py
+The ‘laughing’ python library is an adapter of sorts.  It allows you to pull articles from the couchdb database supporting ‘BiasChecker’ directly, as well as store those articles in the laughing corpus, which a body of texts located in the root folder identified by ‘laughing. corpus_root”.  It makes sense to divide the tasks into two different buckets.  The first bucket is working with the database, and porting stuff over to the corpus.
+Working With Database
+laughing.loadArticles(n)
+	Loads n articles from the database.  Other operations in this section use the index for ease of use.
+laughing.tagArticle(tag, index)
+	Places a copy of the article in tag folder under corpus_root.
+laughing.showArticleInBrowser(index)
+	Opens the article 

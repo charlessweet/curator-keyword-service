@@ -1,0 +1,6 @@
+brown
+conll2000
+treebank
+punkt
+stopwords
+averaged_perceptron_tagger

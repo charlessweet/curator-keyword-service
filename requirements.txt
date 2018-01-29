@@ -1,0 +1,5 @@
+Keras==2.0.2
+nltk==3.2.2
+numpy==1.11.3
+requests==2.12.4
+python_dateutil==2.6.0

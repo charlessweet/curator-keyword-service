@@ -1,0 +1,96 @@
+TypeError: undefined is not a constructor (evaluating 'Object.assign({},T,{timestamp:Math.floor(Date.now()/1e3),auctions:I.map(function(e){return new m(e)})})')
+
+  http://acdn.adnxs.com/prebid/c/7232/pb.js:5 in n
+  http://acdn.adnxs.com/prebid/c/7232/pb.js:8 in s
+  http://www.nationalreview.com/article/444785/ninth-circuit-travel-ban-donald-trump-ruling:28 in nrWrapper
+TypeError: undefined is not a constructor (evaluating 'Object.assign({},T,{timestamp:Math.floor(Date.now()/1e3),auctions:I.map(function(e){return new m(e)})})')
+
+  http://acdn.adnxs.com/prebid/c/7232/pb.js:5 in n
+  http://acdn.adnxs.com/prebid/c/7232/pb.js:8 in s
+  http://www.nationalreview.com/article/444785/ninth-circuit-travel-ban-donald-trump-ruling:28 in nrWrapper
+TypeError: undefined is not a constructor (evaluating 'Object.assign({},T,{timestamp:Math.floor(Date.now()/1e3),auctions:I.map(function(e){return new m(e)})})')
+
+  http://acdn.adnxs.com/prebid/c/7232/pb.js:5 in n
+  http://acdn.adnxs.com/prebid/c/7232/pb.js:8 in s
+  http://www.nationalreview.com/article/444785/ninth-circuit-travel-ban-donald-trump-ruling:28 in nrWrapper
+TypeError: undefined is not a constructor (evaluating 'Object.assign({},T,{timestamp:Math.floor(Date.now()/1e3),auctions:I.map(function(e){return new m(e)})})')
+
+  http://acdn.adnxs.com/prebid/c/7232/pb.js:5 in n
+  http://acdn.adnxs.com/prebid/c/7232/pb.js:8 in s
+  http://www.nationalreview.com/article/444785/ninth-circuit-travel-ban-donald-trump-ruling:28 in nrWrapper
+TypeError: undefined is not a constructor (evaluating 'Array.from(document.getElementsByClassName('wbtz-link'))')
+
+  http://cdn4.wibbitz.com/pages/created-by.html:108 in global code
+The Ninth Circuit Just Issued a Dangerous Ruling against Donald Trump’s Immigration Order
+
+(Image: Zimmytws/Dreamstime)
+PRINT ARTICLE	
+ADJUST FONT SIZEAA
+by DAVID FRENCH
+February 9, 2017 8:57 PM
+@DAVIDAFRENCH
+After the Ninth Circuit’s dangerous precedent, the Trump administration needs to slow down and consider its next move.
+It’s often said that bad facts make bad law. In the case of the Ninth Circuit’s just-issued ruling continuing the nationwide injunction against Donald Trump’s executive order pausing immigration from seven jihadist or jihad-torn countries, it’s necessary to amend that saying. Bad facts combined with superheated politics can make terrible law.
+
+Before addressing the court’s ruling, let’s refer back to some of the bad facts that made it more likely. Critically, the Trump administration issued a significant executive order (and then defended it in court) without laying any real factual foundation for its finding. Next, the administration enforced the order in a haphazard and unnecessarily cruel manner, initially including even green-card holders in its scope. By slamming the door (at least temporarily) in their faces, it created a crisis atmosphere that not only ramped up the political stakes, it told the court that the administration didn’t exactly know how to interpret its own order. This invites judicial meddling.
+
+ 
+ 
+23 Baby Names that New Parents Say they Regret
+Livingly
+By
+What does the opinion actually say? It made four critical rulings and one dangerous implication.
+
+First, the court ruled that the states of Washington and Minnesota had standing to assert legal claims against the Trump administration — mainly on behalf of their state universities and the scholars and students impacted by the order. Here’s the court:
+
+We therefore conclude that the States have alleged harms to their proprietary interests traceable to the Executive Order. The necessary connection can be drawn in at most two logical steps: (1) the Executive Order prevents nationals of seven countries from entering Washington and Minnesota; (2) as a result, some of these people will not enter state universities, some will not join those universities as faculty, some will be prevented from performing research, and some will not be permitted to return if they leave.
+
+
+Applied more generally, this ruling would give state attorneys general extraordinarily broad powers to act essentially as lawyers for actual or potential immigrants — merely by pointing to the alleged costs incurred by key state institutions if they are even temporarily deprived of the immigrant’s presence. While the standing ruling might be more credible if applied to individual immigrants whose exclusion from the country causes specific and identifiable harm to the state, here the court used the possibility of specific harm to confer general standing on states to act on behalf of immigrants as a class. This is extraordinary.
+
+Second, the court held that it had the constitutional authority to review and determine the legality of the order. This is the least problematic aspect of the court’s ruling. I don’t agree with the administration’s assertion that it has “unreviewable authority to suspend the admission of any class of aliens.” The order should receive judicial deference, but it is still subject to judicial review. And that’s what the court said:
+
+In short, although courts owe considerable deference to the President’s policy determinations with respect to immigration and national security, it is beyond question that the federal judiciary retains the authority to adjudicate constitutional challenges to executive action.
+
+Third, after paying lip service to deference, the court ignored its own words and dramatically extended ‘potential’ due-process rights beyond green-card holders to citizens from jihadist and jihadist-torn countries seeking to enter the nation for the first time. After an extended discussion of the due-process rights of permanent legal residents of the United States (an unobjectionable and just proposition), the court specifically declined to limit the injunction to green-card holders — or even to “previously admitted aliens who are temporarily abroad now or who wish to travel and return to the United States in the future.” Instead (and incredibly) it said this:
+
+Even if the claims based on the due process rights of lawful permanent residents were no longer part of this case, the States would continue to have potential claims regarding possible due process rights of other persons who are in the United States, even if unlawfully, see Zadvydas, 533 U.S. 693; non-immigrant visaholders who have been in the United States but temporarily departed or wish to temporarily depart, see Landon, 459 U.S. 33-34; refugees, see 8 U.S.C. § 1231 note 8; and applicants who have a relationship with a U.S. resident or an institution that might have rights of its own to assert, see Kerry v. Din, 135 S. Ct. 2128, 2139 (2015) (Kennedy, J., concurring in judgment); id. at 2142 (Breyer, J., dissenting); Kleindienst v. Mandel,408 U.S. 753, 762-65 (1972).
+
+The court is going to stop enforcement of a temporary pause in entry from jihadist and jihadist-torn countries (while in a state of war against jihadist terrorists) because there are “potential claims” regarding “possible due process rights” even of illegal aliens? That’s not deference. Moreover, if you actually follow the cited legal authorities, you’ll see that none of them are on-point with this case, and all of them deal with highly-specific, individual legal claims. Yet the court used this “authority” to grant sufficient due-process rights to potential immigrants to halt enforcement of a wartime executive order motivated by the desire to protect America from the rising threat of jihadist terror. Astonishng.
+
+Fourth, the court cracked open Pandora’s Box — noting that it will likely consider Trump’s campaign statements in determining whether the executive order violated the Establishment Clause. While it didn’t rest its order on Trump’s repeated claims that he intended to implement a Muslim ban, it did say this:
+
+The States’ claims raise serious allegations and present significant constitutional questions. In light of the sensitive interests involved, the pace of the current emergency proceedings, and our conclusion that the Government has not met its burden of showing likelihood of success on appeal on its arguments with respect to the due process claim, we reserve consideration of these claims until the merits of this appeal have been fully briefed.
+
+Here’s the translation — the court didn’t rule that Trump’s campaign statements rendered the order invalid, but it clearly forecast that it might. Never mind that the order plainly isn’t a Muslim ban, and never mind that the campaign statements weren’t made about the order in question. The mere fact that at one point he stated a desire to ban all Muslims may be used to cut through the “considerable deference” the court owes the president. While there is precedent for considering lawmaker motivations in the Establishment Clause context, the consideration of sweeping campaign statements (about a different kind of measure entirely) push that precedent to the breaking point.
+
+Finally, and crucially, the court made a statement near the end of its opinion that is deeply, deeply troubling. In discussing the evidence before the court, the panel says this:
+
+The Government has pointed to no evidence that any alien from any of the countries named in the Order has perpetrated a terrorist attack in the United States.
+
+Putting aside, for the moment, the administration’s inexplicable failure to include in the executive order or the record the extensive documentation and evidence demonstrating the threat of jihad from the seven identified countries (including terror attacks in the U.S., plots in the U.S., and a record of plots and attacks abroad), whether an attack has been completed in this country is not the standard for implementing heightened security measures. The president doesn’t have to wait for completed attacks to protect the U.S. from dangerous immigrants. He can see the deteriorating security situation on the ground, evaluate the intentions and capabilities of the enemy, and then act before the enemy can strike. Indeed, that’s the goal of national defense — to prevent attacks, not respond after the carnage.
+
+So, what should the administration do?
+So, what should the administration do? It should think long and hard — especially given its own considerable mistakes — before galloping to the Supreme Court. Victory is far from assured, and a tie in the eight-member Court would uphold the Ninth Circuit’s dreadful decision. Rather than risk making terrible law, perhaps the administration should redraft its order, lay the proper foundation, and fight from higher ground. This fight goes beyond the politics of the moment and could impact national security for years to come. If it continues in confusion and haste, the administration may well lose more than a news cycle. If the administration slows down, it increases the chance of victory and of preserving important presidential prerogatives.
+
+The Ninth Circuit’s decision was bad enough that Trump now has to win, and the best way to win is to do things right, not to charge headlong into the legal cannonade.
+
+— David French is a staff writer at National Review and an attorney.
+
+NEXT ARTICLE
+The Paranoid Style of Anti-Trump Politics
+
+Jonathan S. Tobin
+Now PlayingWhite House: Conway 'counseled' after plugging Ivanka Trump's brand
+Tom Price confirmed for secretary of Health and Human Services0:49
+Cory Booker Turns on His One-Time Ally, Betsy DeVos1:27
+Betsy DeVos schooled by protestors in DC0:50
+Trump responds after appeals court panel refuses to reinstate travel ban0:35
+Trump responds after appeals court panel refuses to reinstate travel ban0:35
+Defense Department to rent space in Trump Tower0:41
+Trump blasts senator for divulging Neil Gorsuch's comments0:47
+Trump signs three new 'law and order' actions at Jeff Sessions' swearing in0:40
+California Goes Confederate: Old South Secession2:08
+Powered by
+ 
+`Ninth Circuit’s Donald Trump Travel Ban Ruling Is Dangerous | National Review

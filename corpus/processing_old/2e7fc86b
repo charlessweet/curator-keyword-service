@@ -1,0 +1,373 @@
+TypeError: undefined is not a constructor (evaluating 'this.getMediaElement().pause()')
+
+  http://launch.newsinc.com/167/js/models/Ndn/Widget.js:314 in pause
+  http://launch.newsinc.com/167/js/models/Ndn/Widget.js:315 in execute
+  http://launch.newsinc.com/167/js/models/Ndn/Widget.js:311 in executeCommand
+  http://launch.newsinc.com/167/js/models/Ndn/Widget.js:311 in notifyObserver
+  http://launch.newsinc.com/167/js/models/Ndn/Widget.js:311 in notifyObservers
+  http://launch.newsinc.com/167/js/models/Ndn/Widget.js:311 in notifyObservers
+  http://launch.newsinc.com/167/js/models/Ndn/Widget.js:311 in sendNotification
+  http://launch.newsinc.com/167/js/models/Ndn/Widget.js:311 in sendNotification
+  http://launch.newsinc.com/167/js/models/Ndn/Widget.js:315 in execute
+  http://launch.newsinc.com/167/js/models/Ndn/Widget.js:311 in executeCommand
+  http://launch.newsinc.com/167/js/models/Ndn/Widget.js:311 in notifyObserver
+  http://launch.newsinc.com/167/js/models/Ndn/Widget.js:311 in notifyObservers
+  http://launch.newsinc.com/167/js/models/Ndn/Widget.js:311 in notifyObservers
+  http://launch.newsinc.com/167/js/models/Ndn/Widget.js:311 in sendNotification
+  http://launch.newsinc.com/167/js/models/Ndn/Widget.js:319 in execute
+  http://launch.newsinc.com/167/js/models/Ndn/Widget.js:311 in executeCommand
+  http://launch.newsinc.com/167/js/models/Ndn/Widget.js:311 in notifyObserver
+  http://launch.newsinc.com/167/js/models/Ndn/Widget.js:311 in notifyObservers
+  http://launch.newsinc.com/167/js/models/Ndn/Widget.js:311 in notifyObservers
+  http://launch.newsinc.com/167/js/models/Ndn/Widget.js:311 in sendNotification
+  http://launch.newsinc.com/167/js/models/Ndn/Widget.js:311 in sendNotification
+  http://launch.newsinc.com/167/js/models/Ndn/Widget.js:319 in setFeedData
+  http://launch.newsinc.com/167/js/models/Ndn/Widget.js:319 in execute
+  http://launch.newsinc.com/167/js/models/Ndn/Widget.js:311 in executeCommand
+  http://launch.newsinc.com/167/js/models/Ndn/Widget.js:311 in notifyObserver
+  http://launch.newsinc.com/167/js/models/Ndn/Widget.js:311 in notifyObservers
+  http://launch.newsinc.com/167/js/models/Ndn/Widget.js:311 in notifyObservers
+  http://launch.newsinc.com/167/js/models/Ndn/Widget.js:311 in sendNotification
+  http://launch.newsinc.com/167/js/models/Ndn/Widget.js:319 in setData
+  http://launch.newsinc.com/167/js/models/Ndn/Widget.js:322 in p
+  http://launch.newsinc.com/167/js/models/Ndn/Widget.js:322 in g
+  http://launch.newsinc.com/167/js/models/Ndn/Widget.js:323
+  http://launch.newsinc.com/167/js/models/Ndn/Widget.js:308 in onceReady
+  http://launch.newsinc.com/167/js/models/Ndn/Widget.js:323
+  http://launch.newsinc.com/167/js/embed.js:57 in Deferred
+  http://launch.newsinc.com/167/js/models/Ndn/Widget.js:323 in updateThirdPartyPlayer
+  http://launch.newsinc.com/167/js/models/Ndn/Widget.js:323
+  http://launch.newsinc.com/167/js/embed.js:57 in r
+  http://launch.newsinc.com/167/js/embed.js:57 in d
+  http://launch.newsinc.com/167/js/embed.js:57 in fireWith
+  http://launch.newsinc.com/167/js/embed.js:57
+  http://launch.newsinc.com/167/js/models/Ndn/Widget.js:323
+  http://launch.newsinc.com/167/js/models/Ndn/Widget.js:308
+  http://launch.newsinc.com/167/js/embed.js:59
+  http://launch.newsinc.com/167/js/embed.js:59
+  http://launch.newsinc.com/167/js/embed.js:59 in d
+  http://launch.newsinc.com/167/js/embed.js:59 in trigger
+  http://launch.newsinc.com/167/js/models/Ndn/Widget.js:308 in trigger
+  http://launch.newsinc.com/167/js/models/Ndn/Widget.js:308 in toggleReady
+  http://launch.newsinc.com/167/js/models/Ndn/Widget.js:323
+  http://launch.newsinc.com/167/js/embed.js:57 in r
+  http://launch.newsinc.com/167/js/models/Ndn/Widget.js:313 in dispatchEvent
+  http://launch.newsinc.com/167/js/models/Ndn/Widget.js:313 in dispatchEvent
+  http://launch.newsinc.com/167/js/models/Ndn/Widget.js:315 in execute
+  http://launch.newsinc.com/167/js/models/Ndn/Widget.js:311 in executeCommand
+  http://launch.newsinc.com/167/js/models/Ndn/Widget.js:311 in notifyObserver
+  http://launch.newsinc.com/167/js/models/Ndn/Widget.js:311 in notifyObservers
+  http://launch.newsinc.com/167/js/models/Ndn/Widget.js:311 in notifyObservers
+  http://launch.newsinc.com/167/js/models/Ndn/Widget.js:311 in sendNotification
+  http://launch.newsinc.com/167/js/models/Ndn/Widget.js:311 in sendNotification
+  http://launch.newsinc.com/167/js/models/Ndn/Widget.js:313 in dispatchEvent
+  :0
+
+
+President Trump Signs Executive Order Temporarily Halting All Refugees
+AP
+by MICHAEL PATRICK LEAHY
+27 Jan 2017
+11,926
+President Trump signed an executive order late Friday which temporarily bars refugees from entering the United States.
+Trump signed the order on refugees while at the Pentagon, minutes after General James Mattis was sworn in as Secretary of Defense by Vice President Mike Pence at a brief ceremony which the president attended.
+
+SIGN UP FOR OUR NEWSLETTER
+
+
+The executive order, “Protecting the Nation from Foreign Terrorist Entry Into The United States,” contained these key elements:
+
+Suspended the U.S. Refugee Admissions Program for 120 days, prohibiting the arrival of refugees into the United States from any country during that period
+Ordered the Secretaries of State and Homeland Security to undertake a complete review of the refugee vetting process
+Permanently banned Syrian refugees until President Trump determined otherwise, and
+Lowered the ceiling of refugees allowed to enter the United States during FY 2017 to 50,000.
+Opponents of the federal refugee resettlement program praised Trump’s actions. “This is a great beginning, and much needed,” Ann Corcoran of Refugee Resettlement Watch told Breitbart News.
+
+During the 12 months up to September 30, 2016, the federal government accepted 84,995 refugees in the United States.
+
+In the three months and twenty-seven days since Fiscal Year 2017 began on October 1, 2016, 32,125 refugees have entered the United State
+
+The executive order did however, allow the Secretaries of State and Homeland Security the discretion, on a case by case basis, “to process . . . those refugee claims made by individuals on the basis of religious-based persecution, provided that the religion of the individual is a minority religion in the individual’s country of nationality,”
+
+The number of refugees granted religious-persecution waivers during the 120 suspension period is likely to be minimal.
+
+Upon the possible resumption of the federal refugee resettlement program on May 27, 120 days from Friday, four months will remain in FY 2017. Slightly more than 4,000 refugees per month, in total 17,875 refugees, would be allowed to enter the United States during the remaining time of FY 2017.
+
+But such a resumption will be contingent upon the judgments of the Secretary of State, the Secretary of Homeland Security, and the Director of National Intelligence “only for nationals of countries for which [they] have jointly determined that such additional procedures are adequate to ensure the security and welfare of the United States.”
+
+The order also directed “the Secretary of State, in conjunction with the Secretary of Homeland Security and in consultation with the Director of National Intelligence [to] review the USRAP application and adjudication process to determine what additional procedures should be taken to ensure that those approved for refugee admission do not pose a threat to the security and welfare of the United States, and shall implement such additional procedures,” during the 120 day suspension period.
+
+Refugee applicants currently in the pipeline “may be admitted upon the initiation and completion of these revised procedures,” the executive order stated.
+
+In the order, President Trump also “proclaim[ed] that the entry of nationals of Syria as refugees is detrimental to the interests of the United States and thus suspend any such entry until such time as I have determined that sufficient changes have been made to the USRAP to ensure that admission of Syrian refugees is consistent with the national interest.”
+
+The Department of Homeland Security on Wednesday announced the suspension of the processing of any refugees overseas currently under consideration for acceptance to the program.
+
+The executive order also included a temporary block on visas for 90 days for “immigrants and non-immigrants” from Syria, Somalia, Sudan, Libya, Yemen, Iran, and Iraq, and specifically directed the Secretary of State to “request all foreign governments that do not supply such information [regarding refugee vetting] to start providing such information regarding their nationals within 60 days of notification.”:
+
+After the 60-day period . . . expires, the Secretary of Homeland Security, in consultation with the Secretary of State, shall submit to the President a list of countries recommended for inclusion on a Presidential proclamation that would prohibit the entry of foreign nationals (excluding those foreign nationals traveling on diplomatic visas, North Atlantic Treaty Organization visas, C-2 visas for travel to the United Nations, and G-1, G-2, G-3, and G-4 visas) from countries that do not provide the information requested pursuant to subsection (d) of this section until compliance occurs.
+
+Signing the “Protecting the Nation from Foreign Terrorist Entry Into the United States” executive order was one of two executive actions taken by President Trump immediately after he congratulated Mattis.
+
+The other action was the signing of a presidential memorandum, whose purpose, the president said, is  “to begin a great rebuilding of the armed services of the United States, developing a plan for new planes, new ships, new resources and new tools for our men and women in uniform.”
+
+“I’m establishing new vetting measures to keep radical Islamic terrorists out of the United States of America,” the President said of the executive order temporarily banning refugees.
+
+“We don’t want them here,” Trump said of terrorists.
+
+“We want to ensure that we are not admitting into our country the very threats our soldiers are fighting overseas,” he said, adding:
+
+We only want to admit those into our country who will support our country and love deeply our people. We will never forget the lessons of 9-11, nor the heroes who have lost their lives at the Pentagon. They were the best of us. We will honor them not only with our words, but with our actions. And that’s what we’re doing today. I am privileged to be here with you, and I promise that our administration will always have your back. We will always be with you.
+
+“Both forms of presidential action have the force of law on the executive branch, and sometimes they seem to be used interchangeably,” USA Today reported on the difference between an executive order and a presidential memorandum:
+
+Executive orders are required by law to be published in the Federal Register, which is sort of the executive counterpart to the Congressional Record. Presidential memoranda may be published or not, depending on the subject. . . .
+
+In 2014, fed up with Obama’s executive orders, Congress required the White House Office of Management and Budget to begin reporting on the cost of executive orders. But Congress neglected to include presidential memoranda, and included them the next year — but only for a memorandum with an estimated regulatory cost of $100 million or more.
+
+The American Civil Liberties Union quickly issued this statement criticizing Trump’s executive order:
+
+‘Extreme vetting’ is just a euphemism for discrimination against Muslims. Identifying specific countries with Muslim majorities and carving out exceptions for minority religions flies in the face of the constitutional principle that bans the government from either favoring or discriminating against particular religions. Any effort to discriminate against Muslims and favor other religions runs afoul of the First Amendment.
+
+The National Partnership for New Americans [NPNA], a left wing pro-refugee and open borders group, also criticized the president’s executive order.
+
+“Refugees are our coworkers, neighbors, friends, business owners, and community leaders. Regardless of where they come from – whether as a refugee or as an undocumented young person – everyone deserves to live with dignity, protected from harm,” Joshua Hoyt, the executive director of the NPNA said. “We oppose Trump’s unjust, un-American, and discriminatory steps to disgrace our history, beliefs, and values,” Hoyt added.
+
+ 
+
+ 
+
+Read More Stories About:
+Big Government, Immigration, Donald Trump, Migrants, refugees, temporary ban on refugees, Trump
+
+  by Taboola Sponsored Links We Recommend
+These Unnerving Photos of Life in North Korea Are Mind Blowing
+DirectExpose
+Celebs That Now Work Regular Jobs
+DailyDisclosure
+In 1961 This Little Girl Was Found Adrift At Sea. Decades Later She Revealed The Horrifying Truth
+Scribol
+His Neighbors Were Outraged at First. Now They Think He’s a Genius!
+Grizly
+Trending Articles
+Terror-Tied Group CAIR Causing Chaos, Promoting Protests &…
+The Council on American-Islamic Relations, aka CAIR, has helped launch a series of protests across the country and…
+ 
+Powered By 
+
+Comment count on this article reflects comments made on Breitbart.com and Facebook. Visit Breitbart's Facebook Page.
+
+
+
+advertisement
+
+BREITBART CONNECT
+    
+Sign Up For Our Newsletter
+ 
+
+BREITBART VIDEO PICKS
+Putin-Trump phone call to take place Saturday
+Reuters
+
+Pence: 'Life is winning again in America'
+TheHill.com
+
+Americans Concerned Over Future of 'Obamacare'
+AP
+Putin-Trump phone call to take place Saturday
+Reuters
+Pence: 'Life is winning again in America'
+TheHill.com
+
+More videos:
+ 
+Pence: 'Life is winning again in America'
+ 
+Americans Concerned Over Future of 'Obamacare'
+ 
+Putin-Trump phone call to take place Saturday
+ 
+Pence: 'Life is winning again in America'
+ 
+Americans Concerned Over Future of 'Obamacare'
+ 
+Putin-Trump phone call to take place Saturday
+ 
+Pence: 'Life is winning again in America'
+ 
+Americans Concerned Over Future of 'Obamacare'
+ 
+Putin-Trump phone call to take place Saturday
+Sponsored Links YOU MIGHT LIKE
+
+What Erika Eleniak Looks Like Now is Jaw Dropping
+DailyDisclosure
+
+McKayla Maroney Is Unrecognizable From When She Won Gold
+College Freakz
+
+This Dog Disappeared From The Yard Each Day. But When Her Mom Discovered Why, It’ll Make You Cry
+Scribol
+
+Elizabeth Shue Was Gorgeous in the 80s.. But What She Looks Like Today is Jaw-Dropping
+Smartied
+
+35 Mistakes You Never Noticed In Major Motion Pictures
+Two Red Dots
+
+QUIZ: Only 1 In 100 Americans Can Guess All These Countries From Their Map . Can You?
+Cyber-Breeze
+
+Hilarious Animals Failing In The War Against Furniture
+Wildlife Insider
+
+4 Crossovers At The Top Of Their Class, Read More
+VoteItUp
+
+Sneak Peek: Best Luxury Cars of 2017
+Finance Buzz
+
+Colin Kaepernick's Mom Breaks Her Silence. He Wasn't Too Happy About It
+SportsChew
+
+9 Out of 10 Homeowners Don't Know These Clever Cleaning Tricks
+Fabulous Betty
+
+Susan Boyle’s New Look Is Mesmerizing, It Won’t Let You Look Away
+Majorten
+  by Taboola 
+advertisement
+
+advertisement
+
+advertisement
+ TAKE A LOOK
+Doctors: ED caused by "Clog" easily Cleared by Doing This
+Nevermind Adderall. This Is The "Real" Genius Pill.
+Want To Be A Part of Donald's Historic Day?  Grab His Limited Edition Inauguration Coin Now!
+Two Women Blow SharkTank Investors Away With Deal Of Century
+Britney Spears drops a Bombshell
+7x Lotto Winner: Lottery Isn't As Random As You Think
+Cornell Student Discovers Weightloss Miracle
+How to Get 'Rid' of Herpes for Good - Try It Today
+12x More Efficient Than Solar Panels?
+Diabetes Breakthrough That Will Bankrupt Diabetes Industry
+Powered by 
+Inauguration Weekend!
+What Trump Means
+Douglas Carswell
+Karl Malone
+MOST POPULAR
+Trump Slams Media Criticism of Refugee, Visa Reforms
+7,941 comments - 5 hours ago
+Watch: Senate Minority Leader Schumer Tears Up as He Vows to Fight Trump’s Ban
+7,259 comments - 9 hours ago
+Terror-Tied Group CAIR Causing Chaos, Promoting Protests & Lawsuits as Trump Protects Nation
+19,891 comments - 1 day ago
+SAG Awards: Actors Rip Trump’s Temporary Immigration Ban as Ceremony Turns Political
+1,127 comments - 2 hours ago
+Exclusive — Sarah Palin: Media Hysteria over Trump’s ‘Immigration Ban’ Is Fake News on Steroids
+5,556 comments - 12 hours ago
+Susan Rice: Donald Trump ‘Stone Cold Crazy’ for Appointing Steve Bannon to NSC
+2,057 comments - 5 hours ago
+DHS Vows to Enforce Donald Trump’s Executive Order
+4,905 comments - 13 hours ago
+MILO Too Dangerous For Nike: ‘We’re Not In Support’ Of Viral Wall-Building Video
+783 comments - 1 hour ago
+McCain: Trump’s ‘Confused’ Ban May Fuel ISIS Propaganda
+2,812 comments - 10 hours ago
+Times Journo Calls for Assassination of President Trump
+3,172 comments - 10 hours ago
+FROM THE HOMEPAGE
+
+Seven Inconvenient Facts About Trump’s Refugee Actions
+127 Comments
+
+Claimed ‘Muslim Ban’ Exempts Eighty-Seven Percent of Muslims
+26 Comments
+
+Several Dead As Gunmen Attack Mosque in Quebec City
+63 Comments
+
+SAG Awards – ‘Stranger Things’s David Harbour: We Will ‘Punch Some People in the Face’ to Protect the Marginalized
+6 Comments
+
+Trump Slams Media Criticism of Refugee, Visa Reforms
+7940 Comments
+
+FLASHBACK: Obama Suspended Iraq Refugee Program for Six Months Over Terrorism Fears in 2011
+660 Comments
+
+Breitbart News Daily: Media Hysteria
+13 Comments
+
+We Are Not a Sanctuary City, Says Utah Police Chief
+57 Comments
+
+House Republicans Plan Vote to Kill Obama’s Social Security Gun Ban
+54 Comments
+
+Susan Rice: Donald Trump ‘Stone Cold Crazy’ for Appointing Steve Bannon to NSC
+2055 Comments
+
+Priebus on Immigration Ban: ‘Perhaps We Need to Take it Further’
+1458 Comments
+
+Watch: Senate Minority Leader Schumer Tears Up as He Vows to Fight Trump’s Ban
+7233 Comments
+
+Lyft, AirBnB Give ACLU Donations, Free Housing to Protest Trump’s Refugee Policy
+399 Comments
+
+Chuck Todd: Trump Established a ‘Religious Test’ for Refugees From Muslim Countries
+386 Comments
+
+Trump Supporters Raise Nearly $24,000 For Muslim Immigrant-Owned Limo Torched by Left-Wing Protesters
+244 Comments
+
+Fisherman Faces Life in Prison for Catching $500,000 Worth of Cocaine and Selling It
+285 Comments
+
+Koch Advocacy Group Hits Speaker Ryan’s ‘Buy American’ Tax Plan
+476 Comments
+
+Deported Italian Mobster Caught Sneaking Across U.S.-Mexico Border
+331 Comments
+
+Dem Rep Moulton: Trump’s ‘Un-American’ Immigration Ban ‘Is Harming Our National Security’
+70 Comments
+
+DELINGPOLE: Trump, May And The Return Of The Anglosphere Will Make The World A Better Place
+890 Comments
+
+
+SEND A TIP
+
+advertisement
+
+EXPLORE BREITBART
+Big Government
+Big Journalism
+Big Hollywood
+National Security
+Tech
+Video
+Sports
+The Wires
+London
+Jerusalem
+Texas
+California
+The Conversation
+Privacy Policy
+Terms of Use
+Breitbart Jobs
+CONNECT
+Facebook
+Twitter
+RSS
+SUBSCRIBE TO THE BREITBART NEWSLETTERSwitch to Full Site
+Copyright © 2017 Breitbart
+
+`President Trump Signs Executive Order Temporarily Halting All Refugees - Breitbart

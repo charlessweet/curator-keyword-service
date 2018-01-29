@@ -1,0 +1,39 @@
+TypeError: undefined is not a constructor (evaluating 'Object.assign({},T,{timestamp:Math.floor(Date.now()/1e3),auctions:I.map(function(e){return new m(e)})})')
+
+  http://acdn.adnxs.com/prebid/c/7232/pb.js:5 in n
+  http://acdn.adnxs.com/prebid/c/7232/pb.js:8 in s
+  http://www.nationalreview.com/bench-memos/444283/liberal-judicial-activism:28 in nrWrapper
+TypeError: undefined is not a constructor (evaluating 'Object.assign({},T,{timestamp:Math.floor(Date.now()/1e3),auctions:I.map(function(e){return new m(e)})})')
+
+  http://acdn.adnxs.com/prebid/c/7232/pb.js:5 in n
+  http://acdn.adnxs.com/prebid/c/7232/pb.js:8 in s
+  http://www.nationalreview.com/bench-memos/444283/liberal-judicial-activism:28 in nrWrapper
+TypeError: undefined is not a constructor (evaluating 'Object.assign({},T,{timestamp:Math.floor(Date.now()/1e3),auctions:I.map(function(e){return new m(e)})})')
+
+  http://acdn.adnxs.com/prebid/c/7232/pb.js:5 in n
+  http://acdn.adnxs.com/prebid/c/7232/pb.js:8 in s
+  http://www.nationalreview.com/bench-memos/444283/liberal-judicial-activism:28 in nrWrapper
+Error: Load timeout for modules: jquery
+http://requirejs.org/docs/errors.html#timeout
+
+  http://video.unrulymedia.com/native/native_v1.0.724-1-g2a2b274.js:44 in p
+  http://video.unrulymedia.com/native/native_v1.0.724-1-g2a2b274.js:48 in L
+  http://video.unrulymedia.com/native/native_v1.0.724-1-g2a2b274.js:50 in T
+  http://video.unrulymedia.com/native/native_v1.0.724-1-g2a2b274.js:50
+BENCH MEMOS
+NRO’S HOME FOR JUDICIAL NEWS AND ANALYSIS.
+This Day in Liberal Judicial Activism—February 5
+PRINT ARTICLE	
+ADJUST FONT SIZEAA
+by ED WHELAN
+February 5, 2017 8:00 AM
+@EDWHELANEPPC
+1996—In a muddled speech on the “majesty of the law” at Suffolk University law school, then-district judge Sonia Sotomayor complains that “the public fails to appreciate the importance of indefiniteness in the law”—indefiniteness that sometimes results from the fact that “a given judge (or judges) may develop a novel approach to a specific set of facts or legal framework that pushes the law in a new direction.”
+
+Somehow Sotomayor doesn’t see fit even to question whether, and under what circumstances, it’s proper or desirable for judges to “develop a novel approach” that “pushes the law in a new direction.” Instead, she complains about “recurring public criticism about the judicial process.” The fact that Sotomayor cites as her lead example of unwelcome “public criticism” an article “describing Senator Dole’s criticism of [the] liberal ideology of Clinton judicial appointments and [of the] American Bar Association” lends credence to the suspicion that Sotomayor is less interested in the majesty of the law than in the majesty of liberal activist judges. 
+
+BENCH MEMOS
+NRO’s home for judicial news and analysis.
+FULL
+BLOG
+`Liberal Judicial Activism | National Review

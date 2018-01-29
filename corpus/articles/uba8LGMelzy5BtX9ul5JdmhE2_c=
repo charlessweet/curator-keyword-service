@@ -1,0 +1,242 @@
+TypeError: undefined is not a constructor (evaluating 'lclVals.includes(loggedOut)')
+
+  undefined:22 in eval code
+  :0 in eval
+  https://a1.nyt.com/assets/interactive/20170201-110031/js/foundation/main.js:1 in globalEval
+  https://a1.nyt.com/assets/interactive/20170201-110031/js/foundation/main.js:2 in domManip
+  https://a1.nyt.com/assets/interactive/20170201-110031/js/foundation/main.js:2 in append
+  https://a1.nyt.com/assets/interactive/20170201-110031/js/interactive/main.js:2 in renderInIframe
+  https://a1.nyt.com/assets/interactive/20170201-110031/js/interactive/main.js:2 in renderAdFromData
+  https://a1.nyt.com/assets/interactive/20170201-110031/js/interactive/main.js:2
+  https://a1.nyt.com/assets/interactive/20170201-110031/js/foundation/main.js:3 in forEach
+  https://a1.nyt.com/assets/interactive/20170201-110031/js/foundation/main.js:4
+  https://a1.nyt.com/assets/interactive/20170201-110031/js/interactive/main.js:2 in receiveAds
+  https://a1.nyt.com/assets/interactive/20170201-110031/js/foundation/main.js:4 in l
+  https://a1.nyt.com/assets/interactive/20170201-110031/js/foundation/main.js:4 in trigger
+  https://a1.nyt.com/assets/interactive/20170201-110031/js/foundation/main.js:4 in success
+  https://a1.nyt.com/assets/interactive/20170201-110031/js/foundation/main.js:2 in l
+  https://a1.nyt.com/assets/interactive/20170201-110031/js/foundation/main.js:2 in fireWith
+  https://a1.nyt.com/assets/interactive/20170201-110031/js/foundation/main.js:3 in n
+  https://a1.nyt.com/assets/interactive/20170201-110031/js/foundation/main.js:3
+SECTIONSSKIP TO CONTENT
+The New York Times
+SUBSCRIBE SEARCH LOG IN SETTINGS
+POLITICS
+SHARE
+How Senators Voted on Betsy DeVos
+By THE NEW YORK TIMES	FEB. 7, 2017
+
+The Senate voted to confirm Betsy DeVos as education secretary. For the first time in Senate history, Vice President Mike Pence voted to break the tie in a confirmation vote. Read our story for more details, or view the full list of Senate confirmation votes.
+51 votes will ensure confirmation
+Yes
+51
+No
+50
+Voted “yes”
+R
+Vice President Pence 
+R
+S. Daines Mont.
+R
+J. Thune S.D.
+R
+R. Johnson Wis.
+R
+R. Burr N.C.
+R
+J. Sessions Ala.
+R
+R. Wicker Miss.
+R
+R. Blunt Mo.
+R
+B. Corker Tenn.
+R
+M. Enzi Wyo.
+R
+J. Barrasso Wyo.
+R
+D. Heller Nev.
+R
+R. Portman Ohio
+R
+B. Cassidy La.
+R
+J. McCain Ariz.
+R
+R. Shelby Ala.
+R
+M. Lee Utah
+R
+T. Cruz Tex.
+R
+D. Sullivan Alaska
+R
+C. Gardner Colo.
+R
+R. Paul Ky.
+R
+D. Fischer Neb.
+R
+L. Graham S.C.
+R
+J. Inhofe Okla.
+R
+J. Risch Idaho
+R
+J. Lankford Okla.
+R
+J. Moran Kan.
+R
+P. Toomey Pa.
+R
+J. Ernst Iowa
+R
+T. Cotton Ark.
+R
+M. Rounds S.D.
+R
+T. Cochran Miss.
+R
+M. McConnell Ky.
+R
+M. Crapo Idaho
+R
+J. Hoeven N.D.
+R
+P. Roberts Kan.
+R
+S. Capito W.Va.
+R
+O. Hatch Utah
+R
+J. Kennedy La.
+R
+T. Tillis N.C.
+R
+T. Young Ind.
+R
+J. Flake Ariz.
+R
+T. Scott S.C.
+R
+B. Sasse Neb.
+R
+M. Rubio Fla.
+R
+D. Perdue Ga.
+R
+J. Isakson Ga.
+R
+C. Grassley Iowa
+R
+J. Cornyn Tex.
+R
+J. Boozman Ark.
+R
+L. Alexander Tenn.
+Voted “no”
+R
+S. Collins Me.
+R
+L. Murkowski Alaska
+D
+R. Blumenthal Conn.
+D
+H. Heitkamp N.D.
+D
+J. Manchin III W.Va.
+D
+R. Menendez N.J.
+D
+M. Cantwell Wash.
+D
+B. Cardin Md.
+D
+B. Nelson Fla.
+D
+G. Peters Mich.
+D
+K. Harris Calif.
+D
+D. Feinstein Calif.
+D
+P. Leahy Vt.
+D
+M. Hirono Hawaii
+D
+C. McCaskill Mo.
+D
+R. Wyden Ore.
+D
+M. Warner Va.
+D
+M. Heinrich N.M.
+D
+T. Kaine Va.
+D
+M. Hassan N.H.
+D
+C. Booker N.J.
+D
+J. Donnelly Ind.
+D
+T. Carper Del.
+D
+C. Murphy Conn.
+D
+J. Merkley Ore.
+D
+C. Van Hollen Md.
+D
+M. Bennet Colo.
+D
+J. Tester Mont.
+D
+T. Udall N.M.
+D
+J. Reed R.I.
+D
+D. Stabenow Mich.
+D
+A. Klobuchar Minn.
+D
+B. Casey Pa.
+D
+S. Brown Ohio
+D
+S. Whitehouse R.I.
+D
+E. Warren Mass.
+D
+J. Shaheen N.H.
+D
+C. Schumer N.Y.
+D
+B. Schatz Hawaii
+D
+P. Murray Wash.
+D
+E. Markey Mass.
+D
+K. Gillibrand N.Y.
+D
+A. Franken Minn.
+D
+R. Durbin Ill.
+D
+T. Duckworth Ill.
+D
+C. Cortez Masto Nev.
+D
+C. Coons Del.
+D
+T. Baldwin Wis.
+I
+B. Sanders Vt.
+I
+A. King Me.
+More on NYTimes.com
+Advertisement
+
+`How Senators Voted on Betsy DeVos - The New York Times

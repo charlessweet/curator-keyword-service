@@ -1,0 +1,58 @@
+TypeError: undefined is not a constructor (evaluating 'Object.assign({},T,{timestamp:Math.floor(Date.now()/1e3),auctions:I.map(function(e){return new m(e)})})')
+
+  http://acdn.adnxs.com/prebid/c/7232/pb.js:5 in n
+  http://acdn.adnxs.com/prebid/c/7232/pb.js:8 in s
+  http://www.nationalreview.com/bench-memos/444678/aclu-gorsuch-disabilities-autism:28 in nrWrapper
+TypeError: undefined is not a constructor (evaluating 'Object.assign({},T,{timestamp:Math.floor(Date.now()/1e3),auctions:I.map(function(e){return new m(e)})})')
+
+  http://acdn.adnxs.com/prebid/c/7232/pb.js:5 in n
+  http://acdn.adnxs.com/prebid/c/7232/pb.js:8 in s
+  http://www.nationalreview.com/bench-memos/444678/aclu-gorsuch-disabilities-autism:28 in nrWrapper
+TypeError: undefined is not a constructor (evaluating 'Object.assign({},T,{timestamp:Math.floor(Date.now()/1e3),auctions:I.map(function(e){return new m(e)})})')
+
+  http://acdn.adnxs.com/prebid/c/7232/pb.js:5 in n
+  http://acdn.adnxs.com/prebid/c/7232/pb.js:8 in s
+  http://www.nationalreview.com/bench-memos/444678/aclu-gorsuch-disabilities-autism:28 in nrWrapper
+BENCH MEMOS
+NRO’S HOME FOR JUDICIAL NEWS AND ANALYSIS.
+ACLU’s Disabled Review of Gorsuch
+PRINT ARTICLE	
+ADJUST FONT SIZEAA
+by ED WHELAN
+February 7, 2017 10:02 AM
+@EDWHELANEPPC
+Well, this is curious.
+
+On the ACLU’s website, Claudia Center has a piece claiming, as its title blares, that “Supreme Court Nominee Neil Gorsuch Has a Troubling History When Ruling on Disability Rights Cases.” Center invites “attention to [Judge Gorsuch’s] decisions on disability rights” and says that two of his cases “stand out.”
+
+Oddly, though, Center doesn’t provide links to either of the two cases that she says she wants to draw attention to (even as she includes several other links). Gee, why might that be?
+
+Perhaps because anyone looking at Gorsuch’s two supposedly “troubling” opinions would readily discover that each was unanimous and that each was joined by a very liberal Clinton appointee (Carlos Lucero in one, Mary Beck Briscoe in the other). Perhaps because anyone reading those opinions would discover that Center’s account of them is not trustworthy.
+
+Let’s first consider Gorsuch’s opinion in Hwang v. Kansas State University (joined by Lucero).
+
+The plaintiff in the case, Grace Hwang, was an assistant professor at Kansas State. Upon learning before the fall term that she needed treatment for cancer, she sought, and Kansas State gave her, a six-month paid leave of absence. As that six-month period was expiring, she sought additional leave through the entire spring semester. Kansas State refused, and Hwang sued under the federal Rehabilitation Act, claiming that she had been discriminated against on the basis of disability.
+
+As Gorsuch explains, in order to establish a claim for discrimination under the Rehabilitation Act, Hwang had to show (among other things) that she could “perform the job’s essential functions with a reasonable accommodation for her disability.” But it was undisputed that “she couldn’t work at any point or in any manner for a period spanning more than six months.” So she wasn’t capable of performing the job’s essential functions. (By contrast, Gorsuch spells out, “an employee who needs a brief absence from work for medical care can often still discharge the essential functions of her job,” and “allowing such a brief absence may sometimes amount to a (legally required) reasonable accommodation.”)
+
+No one who reads Center’s account of the case would understand any of this. Center would have us believe that Hwang asked merely “for further short leave” because of a “flu epidemic” on campus. But Gorsuch’s opinion makes clear that Hwang wanted the entire spring term off and that she was complaining that she wasn’t being treated the same as those university employees who were eligible for “sabbaticals lasting up to a year.”
+
+The second case that Center criticizes is Gorsuch’s unanimous opinion in Thompson R2-J School District v. Luke P. (joined by Briscoe). 
+
+Gorsuch’s opinion ruled that parents who withdrew their autistic son, Luke, from a public school in order to place him in a private residential program were not entitled under the Individuals with Disabilities Education Act to recover from the school district reimbursement of their tuition expenses for the residential program. Specifically, Gorsuch’s opinion determined that the public school had been providing Luke a “free and appropriate public education” (“FAPE”) that satisfied the statute.
+
+Although you wouldn’t know it from Center’s account, Gorsuch’s opinion steadfastly sought to follow the Supreme Court’s 1982 precedent of Board of Education v. Rowley, citing it some twenty times. Here’s one excerpt (some citations and footnotes omitted):
+
+How do we know when a school district has or has not provided a disabled student with a FAPE? To be sure, the term is hardly self-defining. Fortunately, however, the statute and Supreme Court afford some additional direction, indicating that we must ask, more specifically, whether Luke’s December 2003 IEP [“individualized education program”] was “reasonably calculated to enable [him] to receive educational benefits,” Bd. of Educ. v. Rowley, 456 U.S. 176, 207 (1982). If the IEP was so calculated, the school district can be said to have provided a FAPE; if not, then not.
+
+The Supreme Court has further explained that this standard is not an onerous one. “Congress did not impose upon the States any greater substantive educational standard than would be necessary to make … access meaningful․ [T]he intent of the Act was more to open the door of public education to handicapped children on appropriate terms than to guarantee any particular level of education once inside.” Rowley, 458 U.S. at 192. So, for example, the Court found no support in the text or history of the Act for the proposition that Congress sought to guarantee educational services sufficient to “maximize each child’s potential.” Id. at 198. Instead, we are told, Congress sought only to require a “‘basic floor of opportunity,’” id. at 200, aimed at providing individualized services sufficient to provide every eligible child with “some educational benefit,” id. (emphasis added). We are also reminded that the “primary responsibility for formulating the education to be accorded a handicapped child, and for choosing the educational method most suitable to the child’s needs, was left by the Act to state and local educational agencies in cooperation with the parents or guardian of the child.” Id. at 207. From this direction, we have concluded that the educational benefit mandated by IDEA must merely be “more than de minimis.”
+
+As Center notes, the question of what counts as a “free and appropriate public education” is pending before the Supreme Court, and it is certainly possible that the Court will revisit what Rowley means. But when Center complains about the allegedly “narrow and outdated standard used by Judge Gorsuch,” she obscures the critical point that Gorsuch (and Briscoe) reasonably drew that standard from the Supreme Court’s decision in Rowley.
+
+My limited point here is not to argue that Gorsuch’s opinion was clearly correct. (That would take a lot more work, both for me and for you.) Rather, it is to highlight that an opinion that strives to hew to longstanding Supreme Court precedent and that is joined by a liberal Clinton appointee is a remarkably weak reed on which to base a claim that Gorsuch’s record on disability cases is “troubling.” (Nancy Pelosi has also tried to use this case against Gorsuch; David Freddoso has critiqued her folly.) 
+
+BENCH MEMOS
+NRO’s home for judicial news and analysis.
+FULL
+BLOG
+`ACLU Gorsuch Disabilities Autism | National Review

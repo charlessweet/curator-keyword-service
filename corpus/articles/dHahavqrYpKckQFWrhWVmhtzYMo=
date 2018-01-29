@@ -1,0 +1,83 @@
+TypeError: undefined is not a constructor (evaluating 'Object.assign({},T,{timestamp:Math.floor(Date.now()/1e3),auctions:I.map(function(e){return new m(e)})})')
+
+  http://acdn.adnxs.com/prebid/c/7232/pb.js:5 in n
+  http://acdn.adnxs.com/prebid/c/7232/pb.js:8 in s
+  http://www.nationalreview.com/article/444786/donald-trump-judges-attacks-andrew-jackson-did-much-worse:28 in nrWrapper
+TypeError: undefined is not a constructor (evaluating 'Object.assign({},T,{timestamp:Math.floor(Date.now()/1e3),auctions:I.map(function(e){return new m(e)})})')
+
+  http://acdn.adnxs.com/prebid/c/7232/pb.js:5 in n
+  http://acdn.adnxs.com/prebid/c/7232/pb.js:8 in s
+  http://www.nationalreview.com/article/444786/donald-trump-judges-attacks-andrew-jackson-did-much-worse:28 in nrWrapper
+TypeError: undefined is not a constructor (evaluating 'Object.assign({},T,{timestamp:Math.floor(Date.now()/1e3),auctions:I.map(function(e){return new m(e)})})')
+
+  http://acdn.adnxs.com/prebid/c/7232/pb.js:5 in n
+  http://acdn.adnxs.com/prebid/c/7232/pb.js:8 in s
+  http://www.nationalreview.com/article/444786/donald-trump-judges-attacks-andrew-jackson-did-much-worse:28 in nrWrapper
+TypeError: undefined is not a constructor (evaluating 'Array.from(document.getElementsByClassName('wbtz-link'))')
+
+  http://cdn4.wibbitz.com/pages/created-by.html:108 in global code
+undefined
+
+  https://tpc.googlesyndication.com/pagead/js/r20170206/r20110914/abg.js:36
+Populist Presidents and ‘Demoralized’ Judges
+
+Detail of portrait of President Andrew Jackson by Ralph E.W. Earl (Wikimedia)
+PRINT ARTICLE	
+ADJUST FONT SIZEAA
+by ANDREW C. MCCARTHY
+February 10, 2017 4:00 AM
+@ANDREWCMCCARTHY
+Hyperventilating critics hope Trump’s swipes at the courts don’t reach Jacksonian heights.
+Rich Lowry has a great column on our “overly sanctified” view of the judiciary. It comes amid the hysteria over President Trump’s rather mild rebuke of federal judges — particularly, James Robart, the district judge who imperiously issued a temporary restraining order (TRO) against Trump’s temporary travel ban excluding refugees and other aliens from seven countries. To a lesser extent, Trump has also groused about the three-judge panel from the Ninth Circuit Court of Appeals that on Thursday refused to overrule Robart’s TRO. (Note: This column was written before the Ninth Circuit’s decision was announced.)
+
+Over the weekend, Trump notoriously tweeted that Robart is a “so-called judge.” On Wednesday, he conveyed exasperation over the previous evening’s Ninth Circuit oral argument, which the president saw as straying far afield of the clear statute that he argues — persuasively — authorizes the ban he has ordered.
+
+ 
+ 
+Why This Company Was Named GQ’s Favorite Online Shirtmaker
+GQ
+By
+I thought Trump’s comment about Robart was childish (and said so on Twitter). It was not the end of the world. After all, Robart’s order is appalling. It neither explains key conclusions nor addresses the clear statutory authority on which Trump relied. But Trump is the president of the United States now, not a celebrity commentator, and his dig was aimed at the judge personally, not at the poor quality of Robart’s work.
+
+That said, can we dial back the hyperventilation over how Trump has purportedly called into question Robart’s legitimacy as a judge, or the legitimacy of the judiciary in general? “So-called” is something of a verbal tic with Trump when he is agitated — kind of like me muttering “jackass” (which I try to do under my breath rather than on Twitter). I wouldn’t read much into it.
+
+I wouldn’t read much into it . . . but apparently Senator Richard Blumenthal (D., Conn.) would. With Judge Neil Gorsuch, Trump’s Supreme Court nominee, making the Senate rounds, Blumenthal took the opportunity to chat him up on the president’s remarks. There is now dispute between the Blumenthal and Gorsuch camps over whether the judge actually said he found Trump’s meanderings “demoralizing” and “disheartening.” Natch, it was enough to have the president burning up his keyboard with tweets about the senator’s misrepresentations — years back — about his military service during the Vietnam War. Sigh . . . 
+
+
+In any event, my objection to Trump’s tweet-burst had nothing to do with my tender sensibilities. It was tactical. As someone who used to do this sort of work for a living, I know taking a gratuitous swipe at a judge is never a smart move, especially when (a) it’s going to rub other judges the wrong way, and (b) the judge you’ve scorned is going to continue presiding over your case.
+
+The Ninth Circuit is a tough enough slog for law enforcement on a good day; there was no need to give those guys reason to be more hostile.
+The Ninth Circuit is a tough enough slog for law enforcement on a good day; there was no need to give those guys reason to be more hostile. Plus, no matter what the Ninth Circuit decided to do there was a high likelihood the case would be sent back to Judge Robart for further proceedings. And as any litigator will tell you, a lot of things a judge decides in a case are not black-and-white. They are shades of gray as to which the judge has mounds of discretion. A judge holding a grudge can hurt you a million ways without triggering an actionable bias claim.
+
+I don’t think Trump’s complaints about the Ninth Circuit proceeding were a big deal. It is perfectly reasonable for non-lawyers to wonder why the oral argument seemed to have little to do with the controlling statute. The president did not insult the judges. And in terms of working the refs, what he did was not in the same league as President Obama’s warning that the “unelected” Supreme Court better not reverse Obamacare, or his belittling of the justices over Citizens United as they sat before him during the State of the Union address.
+
+President Jackson on the wall of the Oval Office (Jonathan Ernst/Reuters)
+Anyway, after reading Rich’s column about our squeamishness regarding the judicial amour-propre, I happened upon a photo of our new populist president working at his Oval Office desk, ’neath the portrait of President Andrew Jackson he has hung there. It reminded me that before Jackson was a populist president, he was a military hero turned tyrant. Upon winning the Battle of New Orleans, General Jackson promptly imposed martial law on that city — in the eyes of many, longer and more severely than the circumstances warranted.
+
+One who complained in an anonymous letter published by the Louisiana Courier on March 3, 1815, was a prominent state legislator, Louis Louaillier. As the The New Yorker’s Caleb Crain recounted in a book review a decade ago, when Jackson discovered the letter’s authorship, he had Louaillier arrested. An attorney for the jailed lawmaker applied forthwith for a writ of habeas corpus — essentially, a judicial ruling that Louaillier’s detention was unconstitutional. A federal district judge, Dominick Augustin Hall, was outraged by Jackson’s action and signed the writ.
+
+Upon being notified of this, Jackson ordered his troops to have Judge Hall arrested. The jurist was seized from his home in the dead of night and brought to the jail, where he was placed in Louaillier’s cell.
+
+Jackson had Louaillier tried for mutiny in a court-martial, and refused to release him even after he was acquitted. Meanwhile, another federal judge, Joshua Lewis, issued a writ of habeas corpus demanding Judge Hall’s release. As night follows day, Jackson had Lewis arrested, too. The plenipotent general then had five soldiers escort Judge Hall out of town, marching him four miles upriver.
+
+To this day, historians argue over whether Steve Bannon was anywhere near New Orleans at the time. All we can say for certain is that Twitter appears to have deleted the feed for @OldHickory, and all references to #FreeJudgeHall have mysteriously vanished.
+
+— Andrew C. McCarthy is a senior policy fellow at the National Review Institute and a contributing editor of National Review.
+
+NEXT ARTICLE
+The Paranoid Style of Anti-Trump Politics
+
+Jonathan S. Tobin
+Now PlayingTrump responds after appeals court panel refuses to reinstate travel ban
+Trump responds after appeals court panel refuses to reinstate travel ban0:35
+Betsy DeVos schooled by protestors in DC0:50
+Trump signs three new 'law and order' actions at Jeff Sessions' swearing in0:40
+Cory Booker Turns on His One-Time Ally, Betsy DeVos1:27
+Trump blasts senator for divulging Neil Gorsuch's comments0:47
+California Goes Confederate: Old South Secession2:08
+Tom Price confirmed for secretary of Health and Human Services0:49
+Defense Department to rent space in Trump Tower0:41
+White House: Conway 'counseled' after plugging Ivanka Trump's brand0:59
+Powered by
+ 
+`Donald Trump’s Judges Attacks: Andrew Jackson Did Much Worse | National Review

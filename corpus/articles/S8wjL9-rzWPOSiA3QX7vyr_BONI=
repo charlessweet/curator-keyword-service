@@ -1,0 +1,65 @@
+TypeError: undefined is not a constructor (evaluating 'B.play()')
+
+  http://www.trbas.com/jive/prod/common/javascripts/main.1q2w3_afb773974948c8cfec315e16b0504336.min.js:76 in loadhandler
+Roughly Speaking: Celebrating the cuisine of the seven banned nations
+
+News  Opinion  Op-Eds
+Ordinary Americans carried out inhumane acts for Trump
+ 
+People in oppostion to President Trump's immigration plan protested at Baltimore-Washington International Thurgood Marshall Airport. (Video by Ken Lam)
+Chris Edelson
+Op-ed: Federal workers were willing to commit inhumane acts for President Trump at U.S. airports. Would you?
+A week ago, men and women went to work at airports around the United States as they always do. They showered, got dressed, ate breakfast, perhaps dropped off their kids at school. Then they reported to their jobs as federal government employees, where, according to news reports, one of them handcuffed a 5-year-old child, separated him from his mother and detained him alone for several hours at Dulles airport.
+
+At least one other federal employee at Dulles reportedly detained a woman who was traveling with her two children, both U.S. citizens, for 20 hours without food. A relative says the mother was handcuffed (even when she went to the bathroom) and threatened with deportation to Somalia.
+
+
+At Kennedy Airport, still other federal employees detained and handcuffed a 65-year-old woman traveling from Qatar to visit her son, who is a U.S. citizen and serviceman stationed at Fort Bragg, N.C. The woman was held for more than 33 hours, according to the New York Times, and denied use of a wheelchair.
+
+Commentary: Trump's order makes America worse
+The men and women who work for the federal government completed these and other tasks and then returned to their families, where perhaps they had dinner and read stories to their children before bedtime.
+
+When we worry and wonder about authoritarian regimes that inflict cruelty on civilians, we often imagine tyrannical despots unilaterally advancing their sinister agendas. But no would-be autocrat can act alone. As a practical matter, he needs subordinates willing to carry out orders. Of course, neither Donald Trump nor Steve Bannon personally detained any of the more than 100 people held at airports over the weekend pursuant to the administration's executive order on immigration, visitation and travel to the United States. They relied on assistance.
+
+Trump's sanctuary bullying
+The men and women who reportedly handcuffed small children and the elderly, separated a child from his mother and held others without food for 20 hours, are undoubtedly "ordinary" people. What I mean by that, is that these are, in normal circumstances, people who likely treat their neighbors and co-workers with kindness and do not intentionally seek to harm others. That is chilling, as it is a reminder that authoritarians have no trouble finding the people they need to carry out their acts of cruelty. They do not need special monsters; they can issue orders to otherwise unexceptional people who will carry them out dutifully.
+
+This should not be a surprise. The famous Milgram experiment and subsequent studies suggest that many people will obey instructions from an authority figure, even if it means harming another person. It is also perfectly understandable (which does not mean it is justifiable). How many of us would refuse to follow an instruction from a superior at work? It is natural to want to keep one's job, even if at the price of inflicting cruelty on another human being, even perhaps a child.
+
+The question we need to ask ourselves is: What will we do? This is not a hypothetical question. Most of us will not face the stark choice employees at airports faced over the weekend. But we are all democratic citizens. Ultimately, our government can only act if we allow it to act. Under our Constitution, the people rule. Our elected officials, including the president, are accountable to us. We possess the power to reject actions we see as out of bounds. We are used to doing this in elections, but democratic tools go further. Even once an election is over, we can exercise our First Amendment rights to contact elected officials, speak, write and protest.
+
+It is far easier to do nothing, to trust that, somehow, America's dangerous course will be set right. But this is a dangerous gamble, and in fact an abdication of our responsibility as Americans and indeed as human beings. If we do nothing, that is a choice. It means we accept a government that has demonstrated it is capable of inflicting cruelty on the innocent and defenseless.
+
+What will we do?
+
+Chris Edelson (edelson@american.edu) is an assistant professor of government in American University's School of Public Affairs. His latest book, "Power Without Constraint: The Post 9/11 Presidency and National Security," was published in May 2016 by the University of Wisconsin Press.
+
+President Donald Trump's sweeping executive order to suspend refugee arrivals and impose tough controls on travelers from seven predominantly Muslim countries was met with protests at U.S. airports. 
+
+Privacy Policy
+Copyright © 2017, The Baltimore Sun, a Baltimore Sun Media Group publication | Place an Ad
+Related
+Bel Air Police detain woman walking, question her immigration status
+
+Analyst: Maryland Gov. Larry Hogan's Donald Trump strategy? "Avoid the subject"
+
+Baltimore's top officer tells immigrant community not to fear police
+
+Baltimore-area advocates for refugees condemn Trump policy
+
+Immigration Donald Trump Stephen Bannon
+ 
+BREAKINGSPORTSMARYLANDOPINIONBUSINESSOBITSENEWSPAPERADVERTISING
+37°`Ordinary Americans carried out inhumane acts for Trump - Baltimore SunReferenceError: Can't find variable: osdlfm
+
+  http://www.baltimoresun.com/news/opinion/oped/bs-airport-inhumanity-20170206-story.html:1 in global code
+  :0 in exit
+  phantomjs://code/readwebsite.js:58 in start
+  phantomjs://platform/webpage.js:286 in _onPageOpenFinished
+ReferenceError: Can't find variable: osdlfm
+
+  http://www.baltimoresun.com/news/opinion/oped/bs-airport-inhumanity-20170206-story.html:1 in global code
+  :0 in exit
+  phantomjs://code/readwebsite.js:58 in start
+  phantomjs://platform/webpage.js:286 in _onPageOpenFinished
+

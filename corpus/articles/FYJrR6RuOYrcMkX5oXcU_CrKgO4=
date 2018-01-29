@@ -1,0 +1,77 @@
+Accessibility links
+Skip to main content
+Keyboard shortcuts for audio player
+View Navigation
+Search
+npr home
+news
+arts & life
+music
+programs & podcasts
+shop
+shots
+PUBLIC HEALTH
+
+Social Media, Math And The Mystery Of A Mumps Outbreak
+
+March 22, 20177:35 PM ET
+MAIMUNA MAJUMDER
+In August 2016, an outbreak of mumps began in Arkansas. Since then, there have been nearly 3,000 cases of the disease across 33 counties in the state.
+
+
+As a public health practitioner, I wondered: Why did this outbreak take off?
+
+My team at HealthMap, a computational epidemiology lab based out of Boston Children's Hospital, began by rounding up as much data as we could.
+
+We quickly discovered that the Arkansas Department of Health was releasing semi-regular PDF reports on the outbreak. The reports broke down cases by county, age and school district (many of the people who have contracted mumps in the Arkansas outbreak are children). But there were no historical archives that could give us a sense of how the outbreak had grown over time.
+
+So we turned to a tool called the HealthMap Digital Surveillance System, which collects social media reports and news about public health issues around the world and turns them into usable epidemiological data. (For example, this blog previously reported on how we used our surveillance system to collect Google search and participatory public health data to track and predict flu outbreaks.)
+
+From the HealthMap data about the mumps outbreak, we were able to estimate the total number of cases that had occurred since August 2016.
+
+
+At that point, we had all the information we needed to tackle a more difficult question: What could the data tell us about vaccination in communities affected by the outbreak?
+
+Before we get to our answer to that question, let's talk about mumps.
+
+Mumps, like measles and rubella, is extremely contagious. Because of this, the measles-mumps-rubella, or MMR, vaccine is given in two doses. Even with both doses, the vaccine is imperfect. One out of every 10 individuals who receives it remains susceptible to the mumps virus. In the event of a mumps outbreak, some people who get sick will be people who were vaccinated; how many depends on what percentage of the people in the affected community are vaccinated.
+
+For a disease as contagious as mumps, a two-dose community-level vaccination rate as high as 96 percent may be necessary to prevent active transmission of the virus, maintaining so-called herd immunity. When the vaccination rate drops, herd immunity breaks down and outbreaks can take off.
+
+The Arkansas Department of Health doesn't generally report high-resolution vaccination statistics to the public. But it has been collecting self-reported data on vaccination from individuals who were diagnosed with mumps during this particular outbreak. In the department's latest report, an average of about 70 percent of people who got mumps said they had received both doses of the mumps vaccine.
+
+However, studies have shown that self-reported vaccination rates are typically 1.5 to 2 times greater than actual vaccination rates. This means that the true two-dose vaccination rate among mumps cases in Arkansas was probably closer to 35 percent to 46 percent.
+
+But what about vaccination rates in the larger communities that these cases came from?
+
+
+After pairing our surveillance data with mathematical modeling methods, we estimated that the average two-dose vaccination rate in communities affected by the outbreak was likely no higher than 89 percent and may have been as low as 70 percent, well below that ideal rate of 96 percent.
+
+Our complete methodology can be found in a study published Wednesday in The Lancet Infectious Diseases.
+
+As vaccine hesitancy gains ground in the United States, we place ourselves at risk for vaccine-preventable diseases like measles, mumps and rubella. While these childhood illnesses aren't fatal to most people, those who are most susceptible to serious adverse effects, such as children under the age of 1 and cancer patients, are often those who can't be vaccinated.
+
+And this is why herd immunity is so important. When we vaccinate, we protect not only ourselves but the most vulnerable members of our communities, too.
+
+Maimuna Majumder is an engineering systems Ph.D. candidate at the Massachusetts Institute of Technology and a computational epidemiology research fellow at HealthMap. Find her on Twitter @maiamajumder.
+
+Correction
+March 22, 2017
+A previous version of this story incorrectly said the report in The Lancet Infectious Diseases was published Thursday. It was published Wednesday.
+vaccination
+mumps
+arkansas
+infectious disease
+children's health
+Facebook
+Twitter
+Google+
+Email
+shots
+About
+Subscribe
+help
+contact
+terms of use
+privacy
+text-only`Mumps Outbreak In Arkansas Analyzed Via Social And News Media : Shots - Health News : NPR

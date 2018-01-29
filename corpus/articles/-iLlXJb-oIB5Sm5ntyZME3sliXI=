@@ -1,0 +1,242 @@
+VIDEOJS: ERROR: (CODE:4 MEDIA_ERR_SRC_NOT_SUPPORTED) This video is no longer available. [object Object]
+
+  https://assets.guim.co.uk/javascripts/dee481180a124298a6fe/graun.media.js:18 in r
+TypeError: undefined is not a constructor (evaluating 'Symbol.for("preactattr")')
+
+  https://assets.guim.co.uk/discussion/discussion-frontend.preact.iife.8bdbd9194e.js:1
+Potentially unhandled rejection [6] m@https://assets.guim.co.uk/javascripts/e332469bbe7d8795ed58/graun.enhanced.js:5:131
+https://assets.guim.co.uk/javascripts/e332469bbe7d8795ed58/graun.enhanced.js:5:208
+H@https://assets.guim.co.uk/javascripts/55beb25a12951b5af27b/graun.standard.js:14:3137
+U@https://assets.guim.co.uk/javascripts/55beb25a12951b5af27b/graun.standard.js:14:2766
+when@https://assets.guim.co.uk/javascripts/55beb25a12951b5af27b/graun.standard.js:14:6407
+run@https://assets.guim.co.uk/javascripts/55beb25a12951b5af27b/graun.standard.js:14:5446
+_drain@https://assets.guim.co.uk/javascripts/55beb25a12951b5af27b/graun.standard.js:10:583
+drain@https://assets.guim.co.uk/javascripts/55beb25a12951b5af27b/graun.standard.js:10:202
+
+  https://assets.guim.co.uk/javascripts/55beb25a12951b5af27b/graun.standard.js:11
+Potentially unhandled rejection [7] o@https://assets.guim.co.uk/javascripts/dee481180a124298a6fe/graun.media.js:21:22878
+https://assets.guim.co.uk/javascripts/dee481180a124298a6fe/graun.media.js:19:41225
+H@https://assets.guim.co.uk/javascripts/55beb25a12951b5af27b/graun.standard.js:14:3137
+U@https://assets.guim.co.uk/javascripts/55beb25a12951b5af27b/graun.standard.js:14:2766
+when@https://assets.guim.co.uk/javascripts/55beb25a12951b5af27b/graun.standard.js:14:6407
+run@https://assets.guim.co.uk/javascripts/55beb25a12951b5af27b/graun.standard.js:14:5446
+_drain@https://assets.guim.co.uk/javascripts/55beb25a12951b5af27b/graun.standard.js:10:583
+drain@https://assets.guim.co.uk/javascripts/55beb25a12951b5af27b/graun.standard.js:10:202
+
+  https://assets.guim.co.uk/javascripts/55beb25a12951b5af27b/graun.standard.js:11
+If you use it, if you like it, then why not pay for it? It’s only fair. Make a Contribution
+Close Skip to main content
+The Guardian
+ 
+Bernie Sanders on Trump and the resistance: 'Despair is not an option'
+The senator talks about his fight to make the Democratic party more attractive to working-class people – and on taking his progressive populism to the heartland in order to topple Trump
+
+by Ed Pilkington in Washington
+
+Friday 10 March 2017 07.00 EST
+66k Shares
+2,248 Comments
+ View more sharing options
+When Donald Trump delivered his first address to Congress 10 days ago, sticking dutifully, for once, to the teleprompter, the media praised him for sounding statesmanlike and presidential. But one person, sitting in a front-row seat just a few feet away, thought differently.
+
+
+'Trump lies all the time': Bernie Sanders indicts president's assault on democracy
+ Read more
+Bernie Sanders was growing more aghast with every sentence. Then, when Trump began to talk about the environment, the 75-year-old independent senator from Vermont nearly laughed out loud. Earlier that day, the president signed an executive order that gutted federal controls against the pollution of rivers and waterways. Now he was standing before US legislators pledging to “promote clean air and clear water”.
+
+“The hypocrisy was beyond belief!” says Sanders, still scarcely able to contain himself. “To talk about protecting clean air and water on the same day that you issue an order that will increase pollution of air and water!”
+
+Sanders’ Senate office in DC has an untouched quality, as though the rocket launcher that propelled him last year from relative obscurity to credible contender for the White House has left no trace. The office walls display quaint photographs of his home state – a field of cows labeled Spring in Vermont – and there’s a bookshelf stacked with distinctly Bernie-esque titles such as Never Give In and The Induced Ignorance of Power.
+
+ Play VideoPlay
+Current Time 0:00
+/
+Duration Time 0:00
+Loaded: 0%
+Progress: 0%
+FullscreenMute
+This video is no longer available.
+ Bernie Sanders on the resistance movement in Trump’s America – video
+Sanders sweeps into the room wearing a casual sweater. His white hair is tousled, and he has the distracted look of someone dragged away from concentrated study. But when we start talking, he is immediately transfixing. In a flash, it is clear why so many have felt the Bern: because he feels it so intensely himself.
+
+“These are very scary times for the people of the United States, and … for the whole world. We have a president who is a pathological liar. Trump lies all of the time.” And Sanders believes the lying is not accidental: “He lies in order to undermine the foundations of American democracy.” Take his “wild attacks against the media, that virtually everything the mainstream media says is a lie.” Or Trump’s denigration of one of George W Bush’s judicial appointees as a “so-called judge”, and his false claims that up to 5 million people voted illegally in the election. Such statements, which Sanders calls “delusional”, are meant to lead to only one conclusion, he says: “that the only person in America who stands for the American people, who is telling the truth, the only person who gets it right, is the president of the United States, Donald Trump. That is unprecedented in American history.”
+
+We have a president who is a pathological liar … He lies in order to undermine the foundations of American democracy
+He travels even deeper into dystopian territory when I ask what, in his view, Trump’s endgame might be. “What he wants is to end up as leader of a nation that has moved a significant degree towards authoritarianism; where the president of the United States has extraordinary powers, far more than our constitution has provided for.”
+
+Sanders is well into his stride by now, conducting the interview with great waves of his arms, punching out words in that distinctive Brooklyn-Vermont growl. It’s impossible not to be drawn in by a man who comes across as this authentic.
+
+Sanders occupies an exalted pedestal in American politics today. In 2016 he won 23 primary and caucus races to Clinton’s 34, notching up 13 million votes. Given the odds stacked against him – Clinton’s establishment firepower; the skewed weighting of the “superdelegates” that tipped the primaries in her direction by reserving 15% of the votes for the party establishment; and the cynical efforts of the party machine through the Democratic national convention to undermine Sanders’ campaign by casting aspersions on his leadership abilities and religious beliefs, as revealed in the Russian-hacked WikiLeaks emails – that was no mean achievement.
+
+If he had won the nomination, would he have beaten Trump? I feel a blowback to the question even as I pose it. Sanders’ body language expresses displeasure as crushingly as any verbal putdown: his face crumples, his shoulders hunch, and he looks as though someone is jabbing him with needles. “I don’t think it’s a worthwhile speculation,” he says. “The answer is: who knows? Possibly yes, possibly no.”
+
+There are millions of people in this country, and all over the world, who have been left behind
+Moving swiftly on. Did he anticipate the result on election night, or was he as shocked as many others when Trump began to sweep rust belt states such as Michigan and Wisconsin – states, incidentally, in which Sanders also defeated Clinton in the primary/caucus stage? “I wasn’t expecting it, but it wasn’t a shock. When I went to bed the night before, I thought it was two-to-one, three-to-one that Clinton would win, but it wasn’t like, ‘Oh, there’s no chance Trump could do it’. That was never my belief.”
+
+Sanders’ sanguine response was rooted in his familiar critique of modern capitalism – that it has left the US, alongside the UK and other major democracies, vulnerable to rightwing assault. This is how he connects Trump with Brexit, and in turn with the jitters gripping continental Europe ahead of elections in France and Germany – common manifestations all, he believes, of the ravages of globalization.
+
+ 
+ Bernie Sanders delivers a speech to Democratic delegates in Topeka, Kansas. Photograph: Rex/Shutterstock
+“One of the reasons for Brexit, for Trump’s victory, for the rise of ultra-nationalist rightwing candidates all over Europe, is the fact that the global economy has been very good for large multinational corporations, has in many ways been a positive thing for well-educated people, but there are millions of people in this country and all over the world who have been left behind.”
+
+I tell him that last September I had an epiphany as I watched Trump tell a ballroom of billionaires at the Waldorf Astoria in Manhattan that he would get all the steelworkers back to work. Steelworkers? How on Earth did the Democratic party, the party of labour, cede so much political ground that a billionaire – “phoney billionaire”, Sanders corrects me, firmly – could stand before other billionaires at the Waldorf and pose as the champion of steelworkers?
+
+“That is an excellent question,” he says, needles turning to roses. “Over the last 30 or 40 years the Democratic party has transformed itself from a party of the working class – of white workers, black workers, immigrant workers – to a party significantly controlled by a liberal elite which has moved very far away from the needs of … working families in this country.”
+
+He goes on to lament what he sees as an unnecessary dichotomy between the identity politics favoured by those liberal elites and the traditional labour roots of the movement – steelworkers, say. He is so incensed about this false division that it even dictates his self-perception: “I consider myself a progressive and not a liberal for that reason alone,” he says.
+
+
+Sanders on Trump and the challenge for the left – full transcript
+ Read more
+I ask him to flesh out the thought. He replies that the liberal left’s focus on sectional interests – whether defined by gender, race or immigrant status – has obscured the needs of a shrinking middle class suffering from huge levels of income inequality. It didn’t need to have been that way. “The truth is, we can and should do both. It’s not an either/or, it’s both.”
+
+Does he see a similar pattern in the trajectory of Britain’s Labour party? His face starts to crumple again, UK politics apparently also being on his list of undesirable discussion topics. “I don’t want to say I know more than I do,” he says, adding, after a beat, “but obviously I am somewhat informed.”
+
+There is a cord that ties Sanders to the UK, in the form of his elder brother, Larry, who lives in Oxford and who ran unsuccessfully last October as a Green party candidate for the Witney seat left vacant by the departure of former prime minister David Cameron. Sanders has described Larry as a large influence on his life, though he says they haven’t been in touch lately. “We talk once in a while.”
+
+Add family matters to the needle category. He’s reticent, too, about discussing Jeremy Corbyn, deflecting a question about the current travails of the Labour leader by again saying: “I don’t know all the details.”
+
+ 
+ A Bernie Sanders supporter holds a placard in Philadelphia. Photograph: Adrees Latif/Reuters
+But he is happy to take an implicit poke at Tony Blair and New Labour, which he suggests fell into the same profound hole that the current US Democratic party is in. “Corbyn has established that there is a huge gap between what was the Labour party leadership and the rank-and-file Labour party activists – he made that as clear as clear could be … Leadership has got to reflect where working people and young people are in the UK.”
+
+It’s all starting to sound pretty depressing. Much of the modern left has detached itself from working people; the vacuum created has in turn permitted that Waldorf moment where steelworkers turn to (phoney) billionaires for salvation; in the ensuing melee we see the rise of Trump, Brexit and the far right, hurtling the world’s leading democracies into the abyss.
+
+Thankfully, that’s not the end of the narrative. Sanders is too driven a person, too committed to his own worldview, to leave us dangling in a dystopian fog. And with reason: he remains a formidable force to be reckoned with. Though he’s less in the conversation these days than he was at the height of his epic battle with Clinton, no one should make the error of thinking that Sanders is done.
+
+Technically still an independent, he is busily lobbying to reform the internal rules of the Democratic party to give more clout to rank-and-file voters and less to party insiders, in order, he says, to tighten that gap between liberal elite and steelworker. He also continues to use the force of his grassroots activism to push the party towards a more radical economic position, based on regulating Wall Street and taxing the wealthy – and claims some success in that regard.
+
+Now the Republicans are scrambling, they are embarrassed, and that tells me they are on the defensive
+“The platform of the Democratic party doesn’t go as far as I would like,” he says, “but I worked on it with Clinton and it is far and away the most progressive platform in the history of American politics.”
+
+In the Senate, too, he’s active in the confirmation process for Trump’s nominations. In particular, he vows to give the president’s pick for the vacant seat on the US supreme court, Neil Gorsuch, a rough ride over his stances on abortion and the Citizens United campaign finance ruling, which unleashed corporate money into elections.
+
+Gorsuch hasn’t ruled on abortion directly, but he has indicated that he believes that the “intentional taking of human life is always wrong”, and on campaign finance he has hinted that he would open up the political process to even more private cash.
+
+I ask Sanders why he isn’t minded to go further with Gorsuch. Why not take a leaf from the Republican book and just say no – after all, they refused even to consider Obama’s supreme court choice, Merrick Garland, effectively stealing the seat from the Democrats.
+
+“There are reasons to say no. You don’t say, ‘I’m going to vote no before I even know who the candidate is.’”
+
+But that’s what the Republicans did, I press.
+
+“I think it’s more effective to give a rational reason,” he replies with finality.
+
+
+The left is stealing from the right's playbook. Call it the Herbal Tea Party
+ Read more
+But the real work of Sanders and the resistance begins when the lights of his Senate office are turned off, the squabbles of DC are left behind, and he takes his brand of progressive populism out to the American heartlands. He’s doing it largely unnoticed – not stealthily, but quietly, without much fanfare. But it’s happening, and with a clear goal: to rebuild the progressive movement from the bottom up.
+
+There are shades here of the Tea Party movement, the disruptive rightwing grassroots group that in two short years destabilized Obama’s presidency and paved the way for everything we are witnessing today. So, is that it? Is that what Sanders is doing when he travels the country, attends rallies, addresses his legions of still adoring young supporters and urges them to resist? Is he putting down the foundations of a progressive Tea Party – as influential voices, such as the three former congressional staffers who co-authored a guide to resistance called Indivisible, have implored?
+
+Unsurprisingly, Sanders fails to embrace the concept. But much of what he is doing, amplified by the network that grew out of his presidential campaign, Our Revolution, does follow a similar playbook: start local, shift the debate to a more radical posture, one primary election at a time.
+
+These are difficult, frightening times. But in moments of crisis, time and again, people have stood up and fought back
+“My job is to substantially increase the number of people participating in the political process. We’ve been quite successful in this, getting more and more people to run for office. That’s what I’m focusing on.”
+
+Here’s where a shaft of light pierces through the gloom: he is convinced that the resistance is already working. In a 14-minute video posted to Facebook Live immediately after Trump’s joint session to Congress, Sanders went so far as to say that Republicans were on the defensive.
+
+Really? Defensive? That seems a bold statement, given the daily stream of executive orders and the bonfire of regulations coming out of the White House. As evidence, Sanders points to Trump and the Republicans’ much-touted plan to scrap the Affordable Care Act, also known as Obamacare.
+
+“Well, a funny thing happened,” the senator says. “Millions of people have been actively involved in saying, ‘Excuse me, if you want to improve the Affordable Care Act, let’s do it, but you are not simply going to repeal it and throw 20 million people out on the streets without any health insurance … Now the Republicans are scrambling, they are embarrassed, and that tells me they are on the defensive on that area.”
+
+
+The Resistance Now: Sign up for weekly news updates about the movement
+ Read more
+He gives another, more lurid, example. Republican leaders holding regular town hall meetings across the country have been accosted in recent weeks by angry, banner-wielding protesters opposing the repeal of the healthcare law, and in some cases police have been called. In the wake of the feisty encounters, conservative leaders demanded more security at such events, which Sanders finds indicative: “When Republicans now are literally afraid to hold public meetings – some of them are arguing, ‘Oh my God, we are afraid of security issues!’ – that tells me they know that the American people are prepared to stand up and fight.”
+
+Stand up and fight: it’s classic Bernie Sanders. And it brings us back to the original quandary: how to respond to the authoritarian threat that is Trump. What word of advice would he give a young person, a twentysomething who is scared and who feels that their country is moving against them? What should they do?
+
+“This is what they should do,” he says, pumping out the Bern. “They should take a deep reflection about the history of this country, understand that absolutely these are very difficult and frightening times. But also understand that in moments of crisis, what has happened, time and time again, is that people have stood up and fought back. So despair is absolutely not an option.”
+
+Topics
+US politics Donald Trump Democrats news
+Share on LinkedIn Share on Pinterest Share on Google+ Share on WhatsApp Share on Messenger
+
+more on this story
+ 
+'Trump lies all the time': Bernie Sanders indicts president's assault on democracy
+2d 294'Trump lies all the time': Bernie Sanders indicts president's assault on democracy
+ 
+Sanders on Trump and the challenge for the left – full transcript
+2d Sanders on Trump and the challenge for the left – full transcript
+ 
+ Bernie Sanders on the resistance movement in Trump's America – video
+2d Bernie Sanders on the resistance movement in Trump's America – video
+ 
+promoted linksfrom around the web
+Recommended by Outbrain
+About this Content
+ 
+When These Lions Found an Injured Fox, You Won't Believe What Happened Next
+RIGHTBRAINNEWS
+ 
+These Photos Prove Why the West Was Called Wild
+DEPOSTS
+ 
+2 SLO CAL Highway 1 Detours You Won't Want To Miss
+VISIT SLO CAL
+ 
+Blockchain Becoming the “internet of Finance”, Here's Why [White Paper]
+COGNIZANT
+About this Content
+Order by Newest Threads Collapsed
+1 2 3 4 … 50 next
+Due to the large number of comments, they are being shown 100 per page.
+
+sptool
+29m ago
+
+0
+1
+You either like Bernie or not. I like his ideas but think you have to be 100% socialism or not. Railways, medical, and other programs. Trump is populist at election, nationalist now and whatever Russia wants later! His instability and lack of sane decision making is causing the whole world to start buzzing like a kicked hornets nest. The world is agitated and where that leads is something to despair.
+
+ Reply   Share Facebook  Twitter Report
+
+smf344
+38m ago
+
+0
+1
+This ACLU video should inspire you:
+
+https://www.youtube.com/watch?v=8mR449w4Qmo
+
+ Reply   Share Facebook  Twitter Report
+View more comments
+most viewed
+back to top
+home
+politics
+world
+opinion
+sports
+soccer
+tech
+arts
+lifestyle
+fashion
+business
+travel
+environment
+ all
+us news	
+›	bernie sanders
+
+facebook
+twitter
+jobs
+guardian labs
+subscribe
+all topics
+all contributors
+solve technical issue
+about us
+contact us
+work for us
+complaints & corrections
+terms & conditions
+privacy policy
+cookie policy
+securedrop
+© 2017 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+ `Bernie Sanders on Trump and the resistance: 'Despair is absolutely not an option' | US news | The Guardian
