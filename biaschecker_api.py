@@ -16,14 +16,17 @@ class BiasCheckerApi(object):
 		self.__biaschecker_app_id = biaschecker_app_id
 		self.__biaschecker_app_secret = biaschecker_app_secret
 		
-	def login(username, password):
-		auth = base64.encode(username + ":" + password)
-		self.__jwt = self.call_biaschecker("/authentication/basic", "POST", None, auth)
+	def login(self, username, password):
+		ucode = username + ":" + password
+		auth = base64.b64encode(ucode.encode()).decode()
+		self.__jwt = self.call_biaschecker("/authenticate/basic", "POST", None, auth)
+		print(self.__jwt)
 
 	def call_biaschecker(self, relative_url, method, data = None, auth = None):
 		url = self.__biaschecker_server_url + relative_url;
 		req = Request(url)
 		req.add_header("content-type", "application/json")
+		req.add_header("origin", "http://www.biaschecker.org")
 		req.add_header("X-BIASCHECKER-API-KEY", self.__biaschecker_app_secret)
 		req.add_header("X-BIASCHECKER-APP-ID", self.__biaschecker_app_id)
 		if(auth != None):
@@ -49,7 +52,7 @@ class BiasCheckerApi(object):
 		return json_obj
 	
 	def get_next_article_in_queue(self, queue_tag):
-		article_id_url = "/articles?limit=1&missing_tag=" + queue_tag
+		article_id_url = "/summaries?limit=1&missing_tag=" + queue_tag
 		json_obj = self.call_biaschecker(article_id_url, "GET")
 		if(len(json_obj["rows"]) == 0):
 			return None
@@ -58,12 +61,8 @@ class BiasCheckerApi(object):
 
 		#get article text
 		article_body_url = "/articles/" + article_id
-		json_obj = self.call_biaschecker(article_body_url,"GET")
-		if(len(json_obj["rows"]) == 0):
-			return None
-		row = json_obj["rows"][0]
-		text = [row["value"] for row in json_obj["rows"]]
-		return (article_id,text[0])
+		text = self.call_biaschecker(article_body_url,"GET")["data"]
+		return (article_id,text)
 	
 	def get_article_text(self, article_id, created):
 		article_body_url = "/articles/" + article_id

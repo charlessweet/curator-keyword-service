@@ -15,9 +15,12 @@ curator_keyword_svc_pwd = os.getenv("CURATOR_KEYWORD_SVC_PWD")
 
 UPDATE_QUEUE = True
 
+def get_biaschecker():
+	return biaschecker_api.BiasCheckerApi(biaschecker_url, biaschecker_app_id, biaschecker_app_secret)
+
 def extract_keywords_from_next_item(queue_tag, update_queue):
 	bc = biaschecker_api.BiasCheckerApi(biaschecker_url, biaschecker_app_id, biaschecker_app_secret)
-	biaschecker_api.login(curator_keyword_svc_acct, curator_keyword_svc_pwd)
+	bc.login(curator_keyword_svc_acct, curator_keyword_svc_pwd)
 	result = bc.get_next_article_in_queue(queue_tag)
 	if(result == None):
 		return None
