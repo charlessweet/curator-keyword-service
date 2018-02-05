@@ -3,6 +3,7 @@
 __pycache__
 .project
 .classpath
+corpus/*
 .pyc
 .swo
 .swp

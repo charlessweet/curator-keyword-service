@@ -7,13 +7,20 @@ import base64
 import time
 import os
 
-biaschecker_url = os.getenv("BIAS_SERVER_URL", "http://localhost:3000")
-biaschecker_app_id = os.getenv("BC_APP_ID","ebf263f37b8640f480dfc27ef324ffa0")
-biaschecker_app_secret = os.getenv("BC_APP_SECRET","662e85a69b854f66b6245f6d9338331c")
+biaschecker_url = os.getenv("BIAS_SERVER_URL")
+biaschecker_app_id = os.getenv("BC_APP_ID")
+biaschecker_app_secret = os.getenv("BC_APP_SECRET")
+curator_keyword_svc_acct = os.getenv("CURATOR_KEYWORD_SVC_ACCT")
+curator_keyword_svc_pwd = os.getenv("CURATOR_KEYWORD_SVC_PWD")
+
 UPDATE_QUEUE = True
+
+def get_biaschecker():
+	return biaschecker_api.BiasCheckerApi(biaschecker_url, biaschecker_app_id, biaschecker_app_secret)
 
 def extract_keywords_from_next_item(queue_tag, update_queue):
 	bc = biaschecker_api.BiasCheckerApi(biaschecker_url, biaschecker_app_id, biaschecker_app_secret)
+	bc.login(curator_keyword_svc_acct, curator_keyword_svc_pwd)
 	result = bc.get_next_article_in_queue(queue_tag)
 	if(result == None):
 		return None
